@@ -6,4 +6,4 @@ Universidad Nacional de Colombia, Sede Medellín
 Facultad de Minas  
 Medellín, Colombia  
 
-[Licencia](https://github.com/jdvelasq/Bash-for-data-science/blob/master/LICENCIA.txt)
+[Licencia](https://github.com/jdvelasq/Bash-for-data-science/blob/master/LICENSE)
