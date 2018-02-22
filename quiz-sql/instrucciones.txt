@@ -1,0 +1,17 @@
+INSTRUCCIONES
+
+Para realizar tanto el quiz de entrenamiento como el quiz de evaluación, se debe cargar correctamente la base de datos a través de las siguientes instrucciones:
+
+1. Descargar los archivos emisor.csv, franquicia.csv y persona.csv.
+2. Descargar el archivo data.sql 
+3. Dentro del archivo data.txt reemplazar los elementos de la función LOAD DATA IN FILE por la ruta de los archivos emisor.csv,franquicia.csv y persona.csv en su equipo
+   respectivamente para cada tabla. El script debe editarse para cada LOAD DATA INFILE como se muestra a continuación: 
+
+   LOAD DATA LOCAL INFILE 'C:/Users/Area/Desktop/pruebasql/emisor.csv' INTO TABLE emisor FIELDS TERMINATED BY ',' IGNORE 1 LINES (bank,ccn,ssn);
+
+4. Desde el promt de MariaDB, ejecutar la siguiente linea:
+
+	SOURCE 'ruta de acceso al archivo data.txt'
+	SOURCE C:\Users\Area\Desktop\script.sql (ejemplo para Windows)
+
+5. Verifique que se hayan creado las tablas emisor, franquicia y persona.
