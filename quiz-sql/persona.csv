@@ -19,7 +19,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 224-25-1891,(05)-9333-5713,Las Vegas (Nevada),Divorced,Wallace Lowery,1971-12-19
 216-82-1048,(04)-1199-9661,Las Vegas (Nevada),Married,Pedro Welch,1972-05-07
 116-93-1394,(05)-9333-4606,Tampa (Florida),Married,Betty Fitzhugh,1973-08-12
-279-81-1912,(08)-2905-8942,Winston–Salem (North Carolina),Single,Lauren Seifert,1977-10-07
+279-81-1912,(08)-2905-8942,Winstonâ€“Salem (North Carolina),Single,Lauren Seifert,1977-10-07
 425-82-1851,(03)-5794-3345,Aurora (Colorado),Married,Livia Castillo,1972-02-26
 339-74-1545,(08)-4858-6766,Atlanta (Georgia),Married,Leland Scully,1975-07-25
 368-83-1054,(05)-7508-4870,Omaha (Nebraska),Married,Elton Castellanos,1975-10-08
@@ -60,7 +60,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 320-23-1747,(05)-5854-5560,Bakersfield (California),Divorced,Donovan Page,1988-08-27
 381-30-1647,(09)-9999-2714,Jersey City (New Jersey),Divorced,Lyndsey Doughty,1974-11-02
 320-60-1872,(04)-7703-5388,Portland (Oregon),Married,Abel Thompson,1970-12-27
-144-54-1985,(08)-8288-7286,Winston–Salem (North Carolina),Single,Giuseppe Gilstrap,1970-10-24
+144-54-1985,(08)-8288-7286,Winstonâ€“Salem (North Carolina),Single,Giuseppe Gilstrap,1970-10-24
 323-82-1615,(08)-5794-5686,Anaheim (California),Married,Ray Feliciano,1974-07-22
 339-60-1288,(03)-5580-1247,Charlotte (North Carolina),Common-Law,Patricia Pompey,1977-01-01
 339-44-1924,(07)-5580-8942,Atlanta (Georgia),Married,Miriam Mcmartin,1970-10-23
@@ -221,7 +221,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 144-93-1828,(03)-9333-7434,Irvine (California),Married,Nicky Auxier,1971-04-03
 320-30-1856,(04)-7973-6502,Los Angeles (California),Divorced,Carlotta Wilkinson,1989-07-16
 408-82-1757,(08)-6486-5241,Washington (District of Columbia),Married,Sunny Kropp,1983-03-12
-301-34-1772,(07)-5125-5119,Winston–Salem (North Carolina),Married,Lynette Signorelli,1974-09-12
+301-34-1772,(07)-5125-5119,Winstonâ€“Salem (North Carolina),Married,Lynette Signorelli,1974-09-12
 320-85-1332,(08)-4370-1079,Corpus Christi (Texas),Married,Elizabeth Crandell,1975-10-13
 166-74-1053,(09)-3858-3278,Fresno (California),Common-Law,Ryan Miera,1977-07-01
 177-30-1771,(08)-8685-2714,Memphis (Tennessee),Married,Kiley Rogalski,1984-01-13
@@ -359,7 +359,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 177-18-1367,(09)-7508-1478,Lincoln (Nebraska),Single,Hector Akridge,1987-04-13
 368-83-1022,(08)-6975-5686,Pittsburgh (Pennsylvania),Married,Julio Stansbury,1989-04-16
 408-31-1629,(09)-5502-3197,Plano (Texas),Common-Law,Agnes Harvey,1971-11-02
-224-44-1643,(08)-1350-3262,Winston–Salem (North Carolina),Divorced,Juliana Driver,1984-02-29
+224-44-1643,(08)-1350-3262,Winstonâ€“Salem (North Carolina),Divorced,Juliana Driver,1984-02-29
 287-23-1883,(07)-5146-7659,Durham (North Carolina),Common-Law,Kathy Crown,1977-06-18
 391-51-1583,(05)-5580-8507,Anchorage (Alaska),Divorced,Wallace Neilson,1984-03-31
 429-93-1435,(07)-5002-8942,Chicago (Illinois),Single,In Markley,1989-10-17
@@ -390,7 +390,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 216-46-1500,(03)-6473-6500,Boise (Idaho),Divorced,Tanya Chamberlin,1969-09-14
 116-23-1374,(03)-2926-5326,San Diego (California),Married,Rosemary Fletcher,1984-01-20
 368-44-1856,(05)-3339-1079,Virginia Beach (Virginia),Common-Law,Latisha Haun,1980-12-22
-116-32-1521,(04)-6486-5686,Winston–Salem (North Carolina),Common-Law,Miriam Meeker,1982-03-12
+116-32-1521,(04)-6486-5686,Winstonâ€“Salem (North Carolina),Common-Law,Miriam Meeker,1982-03-12
 339-60-1912,(07)-2905-5202,Sacramento (California),Married,Leann Voss,1971-03-06
 381-55-1723,(04)-5330-5019,Corpus Christi (Texas),Married,Ben Mcwhorter,1981-07-31
 116-93-1727,(08)-2905-5560,Miami (Florida),Single,Ruth Days,1978-10-06
@@ -415,7 +415,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 339-55-1048,(09)-4370-2735,Norfolk (Virginia),Common-Law,Sherry Humphries,1985-08-04
 177-32-1813,(09)-5794-5036,Norfolk (Virginia),Divorced,Latonya Mccall,1978-10-05
 429-31-1603,(07)-4370-3038,Detroit (Michigan),Single,Ileana Branan,1982-06-10
-116-30-1376,(04)-3339-6362,Winston–Salem (North Carolina),Single,Verona Joiner,1990-03-26
+116-30-1376,(04)-3339-6362,Winstonâ€“Salem (North Carolina),Single,Verona Joiner,1990-03-26
 381-99-1854,(04)-2905-5952,Mesa (Arizona),Common-Law,Alta Fitzhugh,1974-07-09
 224-34-1772,(09)-2905-7402,Virginia Beach (Virginia),Single,Lawrence Gentile,1987-11-17
 429-51-1479,(05)-6812-5965,Jersey City (New Jersey),Single,Claudia Mounts,1986-12-21
@@ -606,7 +606,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 323-54-1688,(08)-8435-9523,Henderson (Nevada),Married,Beverly Manseau,1971-01-11
 116-85-1647,(03)-6486-6362,Milwaukee (Wisconsin),Common-Law,Edward Howard,1977-01-29
 177-18-1483,(08)-3858-4444,Newark (New Jersey),Married,Angela Freitas,1978-07-26
-116-83-1559,(07)-5002-5801,Winston–Salem (North Carolina),Single,Santos Myers,1987-07-16
+116-83-1559,(07)-5002-5801,Winstonâ€“Salem (North Carolina),Single,Santos Myers,1987-07-16
 166-81-1288,(05)-5050-7818,Toledo (Ohio),Common-Law,Oren Albert,1972-08-14
 224-83-1615,(09)-9365-5867,New York (New York),Single,Dimple Zane,1978-02-17
 238-82-1442,(04)-1350-2465,Hialeah (Florida),Divorced,Catherine Marshall,1981-05-11
@@ -625,7 +625,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 381-18-1854,(05)-8685-7191,North Las Vegas (Nevada),Married,Verlie Hamm,1985-11-13
 339-93-1083,(09)-6486-3197,Irvine (California),Divorced,Chandra Withrow,1986-01-07
 287-55-1680,(04)-9719-8548,Baltimore (Maryland),Married,Justin Trussell,1970-10-14
-320-30-1468,(05)-5050-3997,Winston–Salem (North Carolina),Single,Clayton Denson,1988-02-29
+320-30-1468,(05)-5050-3997,Winstonâ€“Salem (North Carolina),Single,Clayton Denson,1988-02-29
 368-85-1530,(09)-9999-4345,Garland (Texas),Common-Law,Alyssa Hudgens,1974-04-25
 216-23-1772,(09)-5902-3345,Wichita (Kansas),Common-Law,Jaime Barnhart,1973-04-08
 216-74-1809,(08)-3949-5019,Chicago (Illinois),Single,Beulah Nielsen,1980-04-03
@@ -655,7 +655,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 408-25-1417,(04)-3468-7414,Santa Ana (California),Common-Law,Chasity Mallard,1981-10-03
 301-25-1283,(03)-6473-5019,Charlotte (North Carolina),Single,Gloria Buckley,1990-02-25
 391-82-1871,(04)-6975-2465,Baton Rouge (Louisiana),Common-Law,Luella Thacker,1986-12-24
-279-18-1048,(07)-3460-3997,Winston–Salem (North Carolina),Married,Omar Say,1980-11-15
+279-18-1048,(07)-3460-3997,Winstonâ€“Salem (North Carolina),Married,Omar Say,1980-11-15
 339-55-1393,(07)-6745-8055,Seattle (Washington),Single,Janay Simpson,1978-10-22
 177-44-1376,(09)-6975-4345,San Antonio (Texas),Divorced,Kent Clark,1978-03-23
 301-93-1285,(04)-6191-4339,Philadelphia[8] (Pennsylvania),Single,Man Cope,1982-07-05
@@ -693,7 +693,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 238-31-1240,(07)-7973-6629,Dallas (Texas),Common-Law,Mee Dicks,1971-08-20
 287-31-1383,(09)-5050-8942,El Paso (Texas),Single,Millard Rousey,1974-10-31
 381-30-1413,(07)-5854-1079,Dallas (Texas),Common-Law,Scarlett Hobbs,1985-09-05
-408-30-1491,(09)-4370-4983,Winston–Salem (North Carolina),Common-Law,Dexter Farrow,1970-06-10
+408-30-1491,(09)-4370-4983,Winstonâ€“Salem (North Carolina),Common-Law,Dexter Farrow,1970-06-10
 224-93-1401,(05)-8288-5965,Baton Rouge (Louisiana),Single,Lynda Hinz,1988-07-31
 339-54-1985,(09)-5854-3278,Omaha (Nebraska),Divorced,Tania Scheffer,1987-01-04
 177-44-1549,(08)-9365-1791,Glendale (Arizona),Divorced,Christie Zimmerman,1979-02-19
@@ -812,7 +812,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 144-81-1163,(08)-3468-4606,Newark (New Jersey),Divorced,Camille Krull,1981-08-18
 116-74-1367,(05)-5592-9187,Baltimore (Maryland),Divorced,Mechelle North,1974-02-23
 368-31-1038,(07)-7905-4208,Tucson (Arizona),Single,Gennie Sammons,1983-01-13
-279-30-1680,(05)-4370-4208,Winston–Salem (North Carolina),Single,Mona Jaquez,1969-07-30
+279-30-1680,(05)-4370-4208,Winstonâ€“Salem (North Carolina),Single,Mona Jaquez,1969-07-30
 287-82-1958,(08)-5002-2725,Lubbock (Texas),Divorced,Mildred Read,1969-09-15
 166-81-1262,(05)-3460-7370,Colorado Springs (Colorado),Common-Law,Lorenza Fuentes,1972-04-26
 144-46-1512,(04)-5580-2115,Raleigh (North Carolina),Divorced,Dale Tice,1969-08-11
@@ -1062,7 +1062,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 339-31-1914,(08)-9854-4444,Hialeah (Florida),Divorced,Josiah Mcmaster,1980-07-05
 287-18-1491,(05)-7973-1114,Garland (Texas),Divorced,Elwood Bertrand,1975-01-27
 166-34-1312,(07)-3433-2714,Las Vegas (Nevada),Divorced,Jeanine Crockett,1980-07-27
-408-23-1506,(03)-8685-5036,Winston–Salem (North Carolina),Common-Law,Sherry Boese,1973-06-03
+408-23-1506,(03)-8685-5036,Winstonâ€“Salem (North Carolina),Common-Law,Sherry Boese,1973-06-03
 391-30-1224,(05)-4858-9114,Lincoln (Nebraska),Common-Law,Romeo Mcgrew,1974-03-09
 339-31-2000,(09)-6865-5560,Corpus Christi (Texas),Divorced,Freddy Packard,1986-03-24
 320-51-1061,(03)-6975-8432,Anaheim (California),Divorced,Emilio Miele,1983-07-09
@@ -1283,7 +1283,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 279-85-1283,(05)-6486-3278,New York (New York),Married,Elsa Bright,1981-05-25
 408-85-1545,(08)-6745-5119,Gilbert (Arizona),Divorced,Ramona Arndt,1987-09-21
 408-81-1006,(09)-4286-5713,San Diego (California),Divorced,Doreen Pinard,1984-06-29
-429-44-1423,(04)-7905-4870,Winston–Salem (North Carolina),Single,Jonathon Mcgrew,1986-10-24
+429-44-1423,(04)-7905-4870,Winstonâ€“Salem (North Carolina),Single,Jonathon Mcgrew,1986-10-24
 425-93-1307,(04)-7905-9511,Plano (Texas),Divorced,Erika Lyons,1987-05-22
 408-18-1107,(07)-5794-5560,Wichita (Kansas),Divorced,Demetrius Mcculley,1986-05-30
 166-25-1433,(09)-9333-4634,Las Vegas (Nevada),Common-Law,Larae Leone,1977-11-15
@@ -1398,7 +1398,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 368-23-1067,(03)-9719-8567,Lubbock (Texas),Divorced,Benedict Horton,1974-06-10
 368-93-1083,(08)-6865-6362,Corpus Christi (Texas),Common-Law,Dianna Deegan,1990-07-11
 323-46-1301,(09)-9999-9511,Colorado Springs (Colorado),Married,Dina Neuhaus,1987-05-29
-279-51-1331,(03)-5146-5388,Winston–Salem (North Carolina),Common-Law,Anne Senters,1988-04-07
+279-51-1331,(03)-5146-5388,Winstonâ€“Salem (North Carolina),Common-Law,Anne Senters,1988-04-07
 116-51-1872,(04)-5580-4339,Hialeah (Florida),Married,Tuan Rush,1969-08-16
 368-54-1753,(09)-9854-7456,Bakersfield (California),Single,Jacqueline Yawn,1970-12-06
 320-32-1620,(04)-7508-3038,St. Petersburg (Florida),Married,Sherita Tyler,1975-12-05
@@ -1517,9 +1517,9 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 429-55-1083,(08)-5002-7370,Hialeah (Florida),Married,Shirley Moody,1972-10-11
 287-93-1811,(08)-6975-2735,Raleigh (North Carolina),Common-Law,Abigail Felty,1974-02-17
 144-83-1345,(07)-9333-9661,Boston (Massachusetts),Common-Law,Belle Browning,1989-04-13
-279-93-1020,(07)-4370-9187,Winston–Salem (North Carolina),Married,Consuelo Miley,1977-07-03
+279-93-1020,(07)-4370-9187,Winstonâ€“Salem (North Carolina),Married,Consuelo Miley,1977-07-03
 320-18-1549,(09)-1350-5560,Colorado Springs (Colorado),Common-Law,Milton Burch,1974-01-05
-339-60-1958,(04)-5002-8568,Winston–Salem (North Carolina),Single,Alphonso Kerns,1970-01-23
+339-60-1958,(04)-5002-8568,Winstonâ€“Salem (North Carolina),Single,Alphonso Kerns,1970-01-23
 224-46-1374,(04)-8435-4208,Los Angeles (California),Divorced,Stephen England,1987-11-15
 408-18-1025,(07)-4858-1247,Omaha (Nebraska),Divorced,Leland Mcquaid,1990-11-12
 116-32-1529,(05)-4286-7370,Buffalo (New York),Single,Evan Conklin,1976-12-04
@@ -1587,7 +1587,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 391-55-1262,(09)-6486-5326,San Antonio (Texas),Married,Christena Sweet,1983-01-12
 238-31-1994,(03)-2926-8223,Baltimore (Maryland),Married,Inell Cummings,1980-12-18
 177-55-1344,(08)-2926-6362,Austin (Texas),Married,Lakisha Reidy,1975-06-10
-391-31-1514,(05)-3468-4206,Winston–Salem (North Carolina),Divorced,Cynthia Fife,1969-12-01
+391-31-1514,(05)-3468-4206,Winstonâ€“Salem (North Carolina),Divorced,Cynthia Fife,1969-12-01
 238-44-1872,(04)-9235-4208,Virginia Beach (Virginia),Divorced,Palma Carey,1982-12-31
 224-30-1529,(08)-3460-4206,Mesa (Arizona),Married,Delma Shepard,1981-05-27
 320-81-1401,(03)-6975-4394,Cleveland (Ohio),Divorced,Rosalinda Fountain,1970-11-01
@@ -1756,7 +1756,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 429-83-1840,(09)-9365-4345,Charlotte (North Carolina),Married,Houston Beatty,1986-01-03
 408-85-1974,(03)-3858-6681,Sacramento (California),Single,Jessica Gann,1989-10-20
 238-99-1332,(04)-8435-5036,Lexington (Kentucky),Married,Andre Carter,1989-12-24
-166-46-1733,(08)-9235-7191,Winston–Salem (North Carolina),Married,Regina Edge,1984-09-30
+166-46-1733,(08)-9235-7191,Winstonâ€“Salem (North Carolina),Married,Regina Edge,1984-09-30
 166-51-1344,(04)-5050-1114,Fresno (California),Divorced,Jeremiah Robbins,1990-03-11
 116-74-1468,(07)-6486-4444,Bakersfield (California),Common-Law,Elva Harn,1973-11-24
 391-85-1496,(04)-7905-4444,Louisville (Kentucky),Divorced,Randi Wilder,1986-09-23
@@ -1982,7 +1982,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 177-18-1054,(03)-2926-9511,Anchorage (Alaska),Common-Law,Shayne Vanhoose,1975-07-10
 138-31-1301,(07)-7504-4206,San Jose (California),Common-Law,Clinton Speciale,1969-09-14
 216-85-1858,(09)-5330-2115,North Las Vegas (Nevada),Single,Alda Benny,1971-12-15
-279-93-1922,(03)-6473-5965,Winston–Salem (North Carolina),Married,Dillon Eads,1977-12-11
+279-93-1922,(03)-6473-5965,Winstonâ€“Salem (North Carolina),Married,Dillon Eads,1977-12-11
 224-30-1423,(08)-5902-7887,Tampa (Florida),Divorced,Lesha Vazquez,1986-02-04
 301-55-1424,(08)-4858-5241,San Antonio (Texas),Common-Law,Blanche Felten,1975-01-26
 144-44-1159,(03)-3433-8055,Richmond (Virginia),Divorced,Jeannine Pelaez,1988-09-03
@@ -2090,7 +2090,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 138-30-1506,(04)-5794-7818,Houston (Texas),Divorced,Lyda Evens,1977-07-04
 368-83-1012,(05)-9854-6500,Lexington (Kentucky),Single,Tracie Clemons,1981-05-01
 391-83-1811,(07)-9235-6781,Plano (Texas),Divorced,Janelle Minaya,1977-12-21
-279-32-1283,(05)-9333-4983,Winston–Salem (North Carolina),Single,Henrietta Kwong,1978-10-09
+279-32-1283,(05)-9333-4983,Winstonâ€“Salem (North Carolina),Single,Henrietta Kwong,1978-10-09
 301-93-1216,(04)-9235-8942,Madison (Wisconsin),Married,Milton Harman,1974-04-22
 224-83-1057,(09)-3460-8548,Philadelphia[8] (Pennsylvania),Divorced,Evelyn Rosalez,1981-02-10
 320-51-1193,(04)-4286-4345,St. Petersburg (Florida),Divorced,Pamela Goddard,1983-03-02
@@ -2111,7 +2111,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 301-60-1551,(07)-7508-8640,Saint Paul (Minnesota),Divorced,Ismael Mceachin,1989-05-04
 144-25-1549,(09)-5125-8405,New York (New York),Single,Antoinette Pumphrey,1975-01-14
 238-83-1332,(04)-5502-2611,Oklahoma City (Oklahoma),Married,Anneliese Harrington,1973-10-06
-116-74-1968,(09)-5050-5388,Winston–Salem (North Carolina),Married,Yu Bednarz,1989-07-24
+116-74-1968,(09)-5050-5388,Winstonâ€“Salem (North Carolina),Married,Yu Bednarz,1989-07-24
 429-44-1854,(05)-9365-8432,Anaheim (California),Married,Marissa Hillery,1978-07-28
 144-60-1559,(07)-1350-8405,Irving (Texas),Single,Orville Bohannon,1969-06-12
 301-54-1757,(09)-5854-3554,San Jose (California),Common-Law,Hellen Dibella,1983-12-27
@@ -2149,7 +2149,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 429-46-1289,(09)-5050-9523,Fresno (California),Common-Law,Christy Gilkes,1990-08-11
 138-30-1469,(09)-1350-7818,Indianapolis[11] (Indiana),Divorced,Dexter Bergstrom,1982-06-22
 391-82-1943,(07)-6812-6362,Louisville (Kentucky),Common-Law,Isaac Garibay,1990-08-22
-368-55-1907,(03)-4286-5019,Winston–Salem (North Carolina),Single,Kasey Hood,1983-05-28
+368-55-1907,(03)-4286-5019,Winstonâ€“Salem (North Carolina),Single,Kasey Hood,1983-05-28
 429-30-1240,(04)-5854-5326,Garland (Texas),Divorced,Shaniqua Dice,1987-06-06
 323-81-1940,(05)-8685-5560,Dallas (Texas),Married,Helga Walter,1989-02-06
 391-25-1324,(08)-4370-4206,Scottsdale (Arizona),Divorced,Selena Gent,1989-10-11
@@ -2272,7 +2272,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 287-99-1771,(08)-8435-5801,Jacksonville (Florida),Divorced,Eloise Gunderson,1969-02-20
 279-32-1237,(04)-9333-6922,Arlington (Texas),Single,Loreen Fuquay,1978-06-17
 368-51-1912,(03)-6745-8055,Phoenix (Arizona),Single,Casey Wiggins,1986-03-17
-116-30-1048,(07)-7905-4983,Winston–Salem (North Carolina),Married,Angelica Ayala,1975-11-23
+116-30-1048,(07)-7905-4983,Winstonâ€“Salem (North Carolina),Married,Angelica Ayala,1975-11-23
 320-18-1057,(05)-5330-1633,Norfolk (Virginia),Single,Hobert Bernardi,1972-07-06
 238-23-1199,(03)-4286-9661,Nashville (Tennessee),Common-Law,Perla Bartlett,1988-04-21
 320-44-1992,(08)-8435-5952,Kansas City (Missouri),Divorced,Ivan Hyatt,1976-04-10
@@ -2363,7 +2363,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 287-46-1521,(05)-6191-3997,New York (New York),Single,Jana Hilt,1987-08-12
 287-99-1159,(09)-6865-8942,Fresno (California),Divorced,Laurie Boynton,1975-09-11
 224-18-1405,(07)-8435-7527,Los Angeles (California),Single,Alberta Thaxton,1988-02-03
-408-93-1551,(05)-6745-7352,Winston–Salem (North Carolina),Divorced,Tuan Coker,1983-09-14
+408-93-1551,(05)-6745-7352,Winstonâ€“Salem (North Carolina),Divorced,Tuan Coker,1983-09-14
 408-93-1957,(04)-4858-7208,New York (New York),Common-Law,Deirdre Carn,1971-11-28
 301-25-1331,(08)-5125-3278,Cincinnati (Ohio),Single,Otis Mcgovern,1981-02-04
 425-34-1579,(03)-5794-1791,Saint Paul (Minnesota),Common-Law,Debbie Hillery,1987-08-04
@@ -2478,7 +2478,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 216-99-1642,(04)-7973-8568,Omaha (Nebraska),Common-Law,Mandi Meinhardt,1974-10-20
 408-81-1514,(07)-5050-4508,Garland (Texas),Single,Patsy Mcgovern,1977-08-05
 224-83-1393,(09)-9854-9114,Baltimore (Maryland),Common-Law,Grant Chiu,1977-12-22
-144-74-1276,(08)-8435-6766,Winston–Salem (North Carolina),Married,Bobbie Thoma,1975-02-03
+144-74-1276,(08)-8435-6766,Winstonâ€“Salem (North Carolina),Married,Bobbie Thoma,1975-02-03
 391-25-1940,(09)-6473-6535,Dallas (Texas),Divorced,Monica Chitty,1980-12-03
 408-44-1378,(07)-3460-5867,St. Petersburg (Florida),Single,Martin Hughes,1987-02-12
 116-60-1849,(04)-3468-5326,Cincinnati (Ohio),Divorced,Naomi Walla,1987-02-21
@@ -2493,7 +2493,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 429-25-1000,(05)-5794-7402,Buffalo (New York),Single,Marisa Yokum,1980-08-26
 391-85-1171,(04)-4858-8548,Santa Ana (California),Married,Teodora Ballard,1990-09-01
 216-93-1469,(09)-4286-1633,Oakland (California),Common-Law,Marin Coward,1989-03-11
-177-83-1642,(08)-4286-6500,Winston–Salem (North Carolina),Single,Mayme Burden,1985-05-12
+177-83-1642,(08)-4286-6500,Winstonâ€“Salem (North Carolina),Single,Mayme Burden,1985-05-12
 138-74-1329,(08)-7703-2315,Kansas City (Missouri),Single,Julio Fricke,1969-09-01
 138-51-1579,(07)-9333-8548,Mesa (Arizona),Married,Vera Stapler,1977-04-05
 177-74-1285,(04)-6191-6629,Colorado Springs (Colorado),Married,Miles Brandon,1977-11-16
@@ -2547,7 +2547,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 323-83-1216,(07)-4286-9470,Washington (District of Columbia),Married,Noah Shea,1974-01-02
 166-93-1376,(05)-7504-1179,Minneapolis (Minnesota),Married,Carolyne Denny,1980-02-24
 216-23-1341,(08)-6812-6922,Las Vegas (Nevada),Divorced,Alane Nicholas,1986-08-23
-216-83-1468,(07)-5330-2315,Winston–Salem (North Carolina),Common-Law,Norman Chaffins,1970-07-04
+216-83-1468,(07)-5330-2315,Winstonâ€“Salem (North Carolina),Common-Law,Norman Chaffins,1970-07-04
 166-51-1496,(03)-9999-4394,Omaha (Nebraska),Single,Olga Burkholder,1973-04-08
 279-83-1753,(08)-9292-5560,Chandler (Arizona),Common-Law,Vaughn Klar,1987-12-10
 425-99-1093,(08)-2905-5019,Boise (Idaho),Common-Law,Ethan Bonds,1977-01-24
@@ -2566,7 +2566,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 116-18-1828,(09)-7504-8405,Irving (Texas),Married,Abel Edelman,1988-01-30
 425-93-1378,(07)-9854-2725,Houston (Texas),Single,Rodolfo Mcdevitt,1974-12-22
 138-60-1163,(03)-7508-5202,Pittsburgh (Pennsylvania),Married,Giuseppe Angeles,1976-09-21
-279-18-1511,(07)-5502-9187,Winston–Salem (North Carolina),Divorced,Kurt Fryer,1976-10-17
+279-18-1511,(07)-5502-9187,Winstonâ€“Salem (North Carolina),Divorced,Kurt Fryer,1976-10-17
 224-46-1053,(07)-5502-3325,Virginia Beach (Virginia),Common-Law,Shaun Cotta,1982-04-16
 279-51-1327,(03)-8435-5965,Charlotte (North Carolina),Common-Law,Karine Quintanilla,1971-11-25
 224-18-1535,(07)-9854-6502,Kansas City (Missouri),Divorced,Tamekia Garvin,1989-11-16
@@ -2612,7 +2612,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 166-23-1666,(08)-5179-9910,Sacramento (California),Single,Leann Willson,1975-03-05
 224-85-1718,(07)-2926-7527,Arlington (Texas),Single,Isabelle Waldrep,1976-03-07
 301-46-2000,(09)-3460-5326,Fort Wayne (Indiana),Married,Homer Breunig,1980-04-01
-391-99-1417,(09)-3858-1764,Winston–Salem (North Carolina),Common-Law,Charles Torkelson,1984-06-02
+391-99-1417,(09)-3858-1764,Winstonâ€“Salem (North Carolina),Common-Law,Charles Torkelson,1984-06-02
 301-60-1583,(05)-7905-6781,North Las Vegas (Nevada),Divorced,Anissa Martino,1978-06-09
 339-82-1995,(09)-5062-6766,Miami (Florida),Common-Law,Elouise Irving,1974-11-24
 368-32-1051,(04)-5854-4606,Oklahoma City (Oklahoma),Divorced,Aurelio Crowl,1977-10-17
@@ -2695,7 +2695,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 279-85-1703,(07)-9235-8507,Glendale (Arizona),Single,Rene Jessie,1981-09-24
 320-25-1642,(07)-5179-5388,Pittsburgh (Pennsylvania),Married,Ryann Mathews,1977-01-17
 144-44-1448,(07)-7973-2725,Fort Wayne (Indiana),Single,Filomena Rossi,1986-11-25
-224-51-1840,(09)-9292-4508,Winston–Salem (North Carolina),Single,Jude Hayes,1990-05-10
+224-51-1840,(09)-9292-4508,Winstonâ€“Salem (North Carolina),Single,Jude Hayes,1990-05-10
 425-74-1048,(03)-9292-4870,Plano (Texas),Married,Fidel Barnett,1985-05-14
 425-85-1193,(03)-3949-4444,Fresno (California),Divorced,Misty Pool,1984-08-18
 368-81-1893,(03)-6975-7352,Reno (Nevada),Common-Law,Stephanie Bernard,1983-05-17
@@ -2717,7 +2717,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 287-74-1753,(05)-5580-7527,Austin (Texas),Common-Law,Holly Borders,1971-11-06
 320-83-1840,(08)-8288-8055,Greensboro (North Carolina),Single,Abel Gagliardi,1976-04-11
 144-34-1543,(04)-5854-6500,Indianapolis[11] (Indiana),Married,Brittaney Berrian,1979-10-18
-138-55-1286,(03)-6975-5388,Winston–Salem (North Carolina),Married,Orlando Kemp,1982-04-16
+138-55-1286,(03)-6975-5388,Winstonâ€“Salem (North Carolina),Married,Orlando Kemp,1982-04-16
 166-85-1312,(07)-5330-5075,Stockton (California),Divorced,Retta Ahner,1989-01-27
 320-60-1856,(07)-3858-2611,Greensboro (North Carolina),Common-Law,Stacee Kinard,1974-07-17
 279-99-1718,(05)-7905-5241,Kansas City (Missouri),Single,Freddy Hansard,1972-08-22
@@ -2948,7 +2948,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 216-30-1507,(09)-5330-2611,Anaheim (California),Common-Law,Rosa Hynes,1973-07-27
 301-93-1107,(08)-5794-6898,Scottsdale (Arizona),Common-Law,Joe Wilfong,1971-08-29
 166-74-1733,(07)-9333-7887,Las Vegas (Nevada),Married,Polly Rikard,1974-10-23
-368-51-1442,(04)-8435-7887,Winston–Salem (North Carolina),Married,Shannan Felty,1975-08-09
+368-51-1442,(04)-8435-7887,Winstonâ€“Salem (North Carolina),Married,Shannan Felty,1975-08-09
 224-23-1483,(05)-7973-5119,Baltimore (Maryland),Common-Law,Jude Eaton,1973-06-19
 425-81-1332,(09)-8685-6681,San Jose (California),Common-Law,Kasie Stallings,1983-06-24
 301-55-1521,(03)-6745-8193,Bakersfield (California),Divorced,Armand Hom,1974-04-28
@@ -3335,7 +3335,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 320-55-1809,(05)-7973-2735,Columbus (Ohio),Married,Elliot Fulmer,1980-12-07
 408-18-1000,(05)-2298-1247,Omaha (Nebraska),Divorced,Sheila Rush,1971-10-15
 287-54-1067,(08)-9235-2115,Fremont (California),Married,Kelly Sevilla,1972-04-06
-368-93-1521,(04)-9719-2115,Winston–Salem (North Carolina),Divorced,Ellis Meas,1971-04-28
+368-93-1521,(04)-9719-2115,Winstonâ€“Salem (North Carolina),Divorced,Ellis Meas,1971-04-28
 166-85-1140,(05)-7703-6502,Tampa (Florida),Divorced,Helaine Carmean,1982-04-17
 224-25-1376,(03)-2905-8548,Fort Worth (Texas),Common-Law,George Schroeder,1986-01-31
 368-31-1680,(04)-3433-7527,Baltimore (Maryland),Common-Law,Colleen Holliday,1974-05-30
@@ -3470,7 +3470,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 287-85-1339,(03)-7508-4339,St. Louis (Missouri),Married,Barbra Pye,1973-08-06
 391-44-1262,(07)-5330-6898,Milwaukee (Wisconsin),Single,Myrna Saldivar,1982-12-12
 279-60-1985,(08)-1199-4444,Tampa (Florida),Married,Aretha Roan,1970-08-24
-339-82-1924,(03)-5580-5970,Winston–Salem (North Carolina),Divorced,Nichelle Yokum,1979-04-05
+339-82-1924,(03)-5580-5970,Winstonâ€“Salem (North Carolina),Divorced,Nichelle Yokum,1979-04-05
 144-34-1083,(08)-9854-7659,Albuquerque (New Mexico),Married,Delia Ely,1979-01-29
 408-83-1563,(07)-9365-3038,Madison (Wisconsin),Divorced,Gale Fessler,1984-11-19
 408-32-1688,(08)-4286-4176,Orlando (Florida),Common-Law,Traci Mojica,1990-01-04
@@ -3547,7 +3547,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 429-51-1549,(05)-9719-6766,Glendale (Arizona),Common-Law,Alana Lantz,1974-08-31
 116-93-1108,(09)-5179-3325,San Bernardino (California),Common-Law,Bill Chow,1985-04-22
 144-55-1809,(05)-5592-4634,Tulsa (Oklahoma),Common-Law,Forrest Declue,1970-10-29
-138-30-1825,(07)-4858-7659,Winston–Salem (North Carolina),Married,Esmeralda Lombard,1970-08-17
+138-30-1825,(07)-4858-7659,Winstonâ€“Salem (North Carolina),Married,Esmeralda Lombard,1970-08-17
 320-18-1692,(07)-2298-2714,St. Petersburg (Florida),Single,Catrina Holmes,1989-03-31
 287-44-1289,(05)-7905-6500,Fresno (California),Divorced,Lois Shultz,1988-11-09
 391-99-1399,(09)-6473-5036,Anaheim (California),Divorced,Veronica Lehto,1976-07-16
@@ -3601,7 +3601,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 425-99-1583,(07)-4286-5965,Memphis (Tennessee),Single,Julie Streets,1986-05-21
 138-31-1992,(08)-2298-5388,San Diego (California),Single,Celia Frandsen,1970-09-27
 408-32-1332,(04)-9719-7659,Oakland (California),Divorced,Trevor Bunn,1970-10-13
-144-34-1629,(08)-5592-8223,Winston–Salem (North Carolina),Divorced,Starr Burrell,1979-09-08
+144-34-1629,(08)-5592-8223,Winstonâ€“Salem (North Carolina),Divorced,Starr Burrell,1979-09-08
 320-46-1811,(09)-3460-3554,Austin (Texas),Married,Palmer Headley,1974-03-21
 368-93-1941,(04)-3460-8942,Jacksonville (Florida),Single,Ben Mayor,1976-03-29
 177-23-1061,(04)-2926-9130,Garland (Texas),Single,Malcolm Mackay,1986-10-05
@@ -3669,9 +3669,9 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 301-18-1000,(03)-3468-9470,Tampa (Florida),Single,Daisy Blake,1974-05-07
 368-25-1012,(09)-5580-3997,Long Beach (California),Divorced,Kenneth Edmonds,1969-04-17
 425-32-1253,(07)-8685-6629,Pittsburgh (Pennsylvania),Married,Jeff Reese,1983-11-08
-368-25-1822,(04)-6745-3038,Winston–Salem (North Carolina),Divorced,Traci Pope,1986-08-22
-238-51-1733,(04)-5902-6480,Winston–Salem (North Carolina),Divorced,Jacquline Cropper,1989-01-06
-224-44-1511,(07)-2905-4289,Winston–Salem (North Carolina),Married,Davis Kinard,1975-02-24
+368-25-1822,(04)-6745-3038,Winstonâ€“Salem (North Carolina),Divorced,Traci Pope,1986-08-22
+238-51-1733,(04)-5902-6480,Winstonâ€“Salem (North Carolina),Divorced,Jacquline Cropper,1989-01-06
+224-44-1511,(07)-2905-4289,Winstonâ€“Salem (North Carolina),Married,Davis Kinard,1975-02-24
 425-51-1074,(07)-8435-5119,Aurora (Colorado),Single,Virgil Calvillo,1982-08-07
 301-54-1307,(08)-7905-5241,Long Beach (California),Single,Sam Regalado,1988-12-09
 323-55-1193,(09)-5902-8942,Indianapolis[11] (Indiana),Divorced,Adelaida Myer,1983-05-22
@@ -3685,7 +3685,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 429-82-1506,(05)-3949-5965,Scottsdale (Arizona),Single,Carlos Powell,1987-04-02
 279-54-1057,(04)-7504-2735,Stockton (California),Common-Law,Kyle Seale,1975-06-24
 429-34-1563,(08)-4286-2725,Arlington (Texas),Common-Law,Georgianne Orman,1985-05-23
-287-31-1958,(03)-9854-5801,Winston–Salem (North Carolina),Common-Law,Sally Tice,1973-07-11
+287-31-1958,(03)-9854-5801,Winstonâ€“Salem (North Carolina),Common-Law,Sally Tice,1973-07-11
 224-44-2000,(03)-5580-5388,Durham (North Carolina),Single,Bailey Pettiford,1978-09-29
 339-99-1680,(07)-7508-1433,Richmond (Virginia),Divorced,Elmer Kilkenny,1981-04-05
 238-60-1801,(07)-6486-7887,Charlotte (North Carolina),Divorced,Martin Joiner,1984-09-12
@@ -3694,7 +3694,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 166-54-1680,(09)-5062-2315,Henderson (Nevada),Divorced,Ira Coffey,1973-06-22
 287-23-1579,(08)-3460-3197,Glendale (Arizona),Common-Law,Julia Hamel,1985-06-23
 216-99-1022,(04)-8435-1478,Toledo (Ohio),Divorced,Tyler Bruckner,1977-11-30
-166-34-1301,(03)-7504-5867,Winston–Salem (North Carolina),Common-Law,Effie Stoll,1978-04-01
+166-34-1301,(03)-7504-5867,Winstonâ€“Salem (North Carolina),Common-Law,Effie Stoll,1978-04-01
 391-55-1957,(09)-5580-7286,San Antonio (Texas),Married,Lidia Bruck,1971-08-19
 301-51-1019,(07)-3339-5801,Chandler (Arizona),Single,Therese Musgrove,1976-05-15
 238-93-1344,(07)-8685-5388,Chandler (Arizona),Divorced,Janice Paul,1974-03-14
@@ -3743,7 +3743,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 408-34-1158,(04)-5146-8968,Lubbock (Texas),Married,Josh Crouch,1969-05-13
 166-99-1805,(08)-4370-4508,Bakersfield (California),Divorced,Meagan Riordan,1989-12-23
 368-31-1995,(07)-9719-1633,Scottsdale (Arizona),Common-Law,Ebony Berg,1987-02-15
-138-85-1647,(07)-7508-7191,Winston–Salem (North Carolina),Common-Law,Paul Clough,1979-02-15
+138-85-1647,(07)-7508-7191,Winstonâ€“Salem (North Carolina),Common-Law,Paul Clough,1979-02-15
 301-51-1159,(04)-6975-5801,Oakland (California),Single,Martin Stocks,1975-04-08
 301-32-1768,(07)-7703-1452,Santa Ana (California),Single,Donnie Padgett,1978-07-21
 279-93-1313,(05)-3433-8568,Lexington (Kentucky),Married,Georgia Wiese,1980-11-15
@@ -3770,7 +3770,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 425-85-1871,(03)-3858-8432,San Antonio (Texas),Single,Bernita Gore,1988-08-15
 301-60-1288,(07)-2298-2611,Aurora (Colorado),Common-Law,Roosevelt Ladd,1973-04-28
 216-31-1511,(03)-3949-5867,Orlando (Florida),Single,Abel Curnutt,1974-05-06
-408-74-1612,(04)-8685-2115,Winston–Salem (North Carolina),Single,Cecily Good,1969-07-30
+408-74-1612,(04)-8685-2115,Winstonâ€“Salem (North Carolina),Single,Cecily Good,1969-07-30
 320-31-1828,(08)-9333-4339,Norfolk (Virginia),Single,Karin Teague,1973-06-20
 301-81-1727,(09)-6812-9661,Madison (Wisconsin),Common-Law,Bailey Goetsch,1989-10-01
 224-55-1276,(07)-8435-1478,Chandler (Arizona),Common-Law,Caitlin David,1976-10-23
@@ -4252,7 +4252,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 368-32-1259,(03)-3468-4176,Reno (Nevada),Single,Marisha Tyler,1971-04-16
 216-32-1291,(09)-6486-9511,Riverside (California),Divorced,Suzie Burks,1988-09-09
 425-51-1237,(04)-5050-8223,San Diego (California),Married,Art Ginyard,1983-06-28
-339-85-1253,(03)-3433-3345,Winston–Salem (North Carolina),Divorced,Hermelinda Port,1978-05-13
+339-85-1253,(03)-3433-3345,Winstonâ€“Salem (North Carolina),Divorced,Hermelinda Port,1978-05-13
 166-93-1263,(07)-3468-7659,Nashville (Tennessee),Divorced,Shea Melvin,1979-12-13
 238-54-1828,(08)-6191-7818,Baltimore (Maryland),Married,Adelle Beall,1987-05-11
 116-31-1283,(05)-3460-8432,Stockton (California),Married,Mildred Tejada,1978-03-05
@@ -4393,7 +4393,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 238-30-1512,(04)-4286-8968,Chula Vista (California),Married,Rosalinda Licata,1985-12-15
 408-99-1193,(08)-3460-2611,Atlanta (Georgia),Single,Meredith Elkins,1969-02-08
 301-32-1253,(03)-9292-6898,Las Vegas (Nevada),Common-Law,Herman Byers,1977-07-02
-429-25-1054,(08)-3460-1478,Winston–Salem (North Carolina),Divorced,Rosa Raymond,1981-01-03
+429-25-1054,(08)-3460-1478,Winstonâ€“Salem (North Carolina),Divorced,Rosa Raymond,1981-01-03
 279-25-1468,(09)-7905-1114,Pittsburgh (Pennsylvania),Divorced,Jackie Culbert,1973-09-13
 138-44-1718,(07)-2298-8567,Dallas (Texas),Married,Chris Ivy,1982-05-11
 368-32-1603,(04)-5794-7286,Plano (Texas),Married,Oscar Henley,1974-06-12
@@ -4431,13 +4431,13 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 224-32-1392,(05)-5580-1114,Indianapolis[11] (Indiana),Married,Deeann Brodie,1985-05-27
 166-25-1345,(09)-9854-2735,Anaheim (California),Single,Lizabeth Cooley,1983-12-27
 287-25-1530,(04)-9854-4444,Hialeah (Florida),Common-Law,Theron Gorski,1982-06-08
-287-74-1519,(04)-2905-7286,Winston–Salem (North Carolina),Divorced,Madie Mcclung,1983-04-17
+287-74-1519,(04)-2905-7286,Winstonâ€“Salem (North Carolina),Divorced,Madie Mcclung,1983-04-17
 323-93-1479,(08)-3858-5388,San Diego (California),Single,Wayne Ventura,1986-11-25
 429-31-1979,(04)-3433-1114,Boston (Massachusetts),Single,Justina Cossey,1978-10-27
 224-30-1240,(04)-6486-5965,Richmond (Virginia),Single,Lynelle Graves,1989-12-02
 301-55-1324,(08)-6975-3197,Orlando (Florida),Divorced,Staci Gwin,1985-06-04
 138-44-1148,(09)-5902-2315,Wichita (Kansas),Married,Shaunna Aubry,1977-11-21
-279-82-2000,(04)-5125-1423,Winston–Salem (North Carolina),Divorced,Francisco Swafford,1972-06-25
+279-82-2000,(04)-5125-1423,Winstonâ€“Salem (North Carolina),Divorced,Francisco Swafford,1972-06-25
 408-44-1605,(07)-5592-5965,Chandler (Arizona),Married,Dinah Douglass,1980-10-23
 287-81-1680,(07)-3949-6781,San Antonio (Texas),Divorced,Royal Richard,1990-12-23
 238-99-1288,(03)-3460-7402,San Francisco (California),Single,Leona Perkins,1981-06-17
@@ -4781,7 +4781,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 408-44-1291,(09)-7905-5965,Jersey City (New Jersey),Married,Neil Rutledge,1987-01-12
 323-82-1772,(04)-3858-8968,Kansas City (Missouri),Common-Law,Sonia Magill,1982-11-08
 216-55-1171,(03)-6865-5713,Charlotte (North Carolina),Divorced,Kristopher Parsons,1979-02-21
-138-93-1664,(04)-3949-6500,Winston–Salem (North Carolina),Married,Blake Goulart,1986-11-24
+138-93-1664,(04)-3949-6500,Winstonâ€“Salem (North Carolina),Married,Blake Goulart,1986-11-24
 279-34-1332,(04)-7504-6362,Las Vegas (Nevada),Single,Vina Gonzales,1987-02-09
 224-30-1156,(08)-9292-7208,Oklahoma City (Oklahoma),Married,Fred Bain,1975-04-15
 368-32-1950,(09)-7905-1433,Fort Worth (Texas),Single,Percy Claybrooks,1987-08-23
@@ -4811,7 +4811,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 287-18-1313,(07)-4286-9114,Oakland (California),Common-Law,Mireya Montoya,1970-11-09
 166-54-1468,(04)-3460-8405,Omaha (Nebraska),Common-Law,Stacee Berryhill,1975-02-05
 166-30-1985,(09)-6812-7286,St. Petersburg (Florida),Divorced,Rozella Holley,1974-09-23
-320-54-1263,(05)-6865-6922,Winston–Salem (North Carolina),Common-Law,Gordon Mendez,1985-01-04
+320-54-1263,(05)-6865-6922,Winstonâ€“Salem (North Carolina),Common-Law,Gordon Mendez,1985-01-04
 279-85-1378,(09)-5125-9114,Irving (Texas),Divorced,Mignon Garlock,1985-09-10
 138-30-1224,(04)-9235-4176,Los Angeles (California),Single,Brandon Chambers,1983-09-20
 116-30-1448,(09)-9854-6898,Indianapolis[11] (Indiana),Married,Sarah Gordon,1990-01-17
@@ -4929,7 +4929,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 287-93-2000,(08)-3320-4176,Columbus (Ohio),Single,Brad Estill,1983-12-02
 425-81-1747,(07)-3460-4345,Orlando (Florida),Divorced,Corey Custodio,1979-01-14
 323-30-1642,(08)-8685-4345,Henderson (Nevada),Single,Frederick Schwartz,1986-12-22
-339-85-1768,(09)-8685-5202,Winston–Salem (North Carolina),Married,Devora Mcquaid,1981-09-02
+339-85-1768,(09)-8685-5202,Winstonâ€“Salem (North Carolina),Married,Devora Mcquaid,1981-09-02
 287-55-1199,(08)-9235-9114,Las Vegas (Nevada),Common-Law,Travis Whitley,1969-05-12
 238-23-1866,(08)-5125-6898,Lexington (Kentucky),Married,Ernie Barron,1989-07-25
 287-32-1883,(07)-5794-8568,New Orleans (Louisiana),Single,Nola Douglass,1975-03-15
@@ -5022,7 +5022,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 339-81-1620,(04)-2905-3345,Scottsdale (Arizona),Divorced,Melvin Lyons,1976-12-02
 301-54-1530,(08)-8435-6898,Chandler (Arizona),Common-Law,Maureen Bier,1977-01-01
 238-44-1941,(07)-5580-1633,Irvine (California),Divorced,Patsy Sheffer,1981-04-07
-301-18-1158,(07)-4858-6535,Winston–Salem (North Carolina),Single,Jayne Ladner,1982-09-27
+301-18-1158,(07)-4858-6535,Winstonâ€“Salem (North Carolina),Single,Jayne Ladner,1982-09-27
 166-18-1856,(09)-9292-8507,Long Beach (California),Divorced,Mellissa Cupps,1979-07-02
 238-32-1021,(09)-5580-5970,Baltimore (Maryland),Divorced,Leann Vasquez,1988-05-05
 279-85-1291,(09)-5050-8223,Newark (New Jersey),Single,Forrest Perino,1977-03-12
@@ -5110,7 +5110,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 301-60-1732,(07)-1350-7370,Durham (North Carolina),Single,Daniell Dice,1989-09-18
 224-18-1483,(05)-7703-6362,Lexington (Kentucky),Single,Claretha Dial,1985-06-26
 429-83-1324,(04)-5854-4870,Baltimore (Maryland),Common-Law,Son Rolph,1974-08-22
-320-85-1647,(03)-4370-9114,Winston–Salem (North Carolina),Common-Law,Rosie Bertrand,1983-12-06
+320-85-1647,(03)-4370-9114,Winstonâ€“Salem (North Carolina),Common-Law,Rosie Bertrand,1983-12-06
 323-30-1054,(08)-9235-2465,Sacramento (California),Single,Melody Christ,1984-11-14
 391-31-1345,(04)-6812-1452,Denver (Colorado),Divorced,Deana Meehan,1974-01-18
 224-82-1851,(05)-9333-1423,Minneapolis (Minnesota),Single,Claudia Foust,1969-10-26
@@ -5203,7 +5203,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 138-82-1417,(09)-9854-2611,San Diego (California),Divorced,Trish Bergevin,1972-02-29
 238-51-1893,(08)-7973-2714,Washington (District of Columbia),Divorced,Maria Wu,1986-05-02
 144-93-1747,(07)-5146-8432,Stockton (California),Divorced,Roberta Veit,1976-05-26
-301-99-1985,(04)-5050-6480,Winston–Salem (North Carolina),Single,Jay Aderholt,1980-01-22
+301-99-1985,(04)-5050-6480,Winstonâ€“Salem (North Carolina),Single,Jay Aderholt,1980-01-22
 381-44-1496,(05)-7508-2725,Mesa (Arizona),Single,Catherine Donley,1982-09-18
 323-31-1000,(05)-1199-9187,Colorado Springs (Colorado),Single,Mattie Duckett,1969-08-25
 339-46-1442,(09)-1350-2315,Fremont (California),Divorced,Vickie Suiter,1989-04-27
@@ -5221,7 +5221,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 238-83-1825,(05)-5050-7527,Chula Vista (California),Single,Alda Bello,1972-06-25
 116-25-1840,(09)-5502-6898,Houston (Texas),Single,Garry Prichard,1988-03-24
 287-32-1856,(09)-7504-7818,Boise (Idaho),Common-Law,Jessica Reese,1984-11-17
-287-81-1647,(08)-6486-8942,Winston–Salem (North Carolina),Divorced,Dovie Molyneux,1979-04-02
+287-81-1647,(08)-6486-8942,Winstonâ€“Salem (North Carolina),Divorced,Dovie Molyneux,1979-04-02
 144-32-1283,(08)-9333-1114,San Jose (California),Divorced,Patricia Fugate,1977-04-02
 301-85-1837,(09)-2905-9910,Glendale (Arizona),Married,Kira Maloney,1975-11-05
 391-93-1083,(08)-5062-9511,Richmond (Virginia),Married,Kizzie Mull,1978-11-22
@@ -5321,7 +5321,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 238-81-1359,(09)-3949-7191,Irvine (California),Common-Law,Margret Johnston,1979-12-19
 368-44-1463,(05)-7703-7456,Riverside (California),Single,Hattie Gholston,1990-08-30
 425-60-1530,(05)-5002-9661,Las Vegas (Nevada),Single,Courtney Breunig,1976-09-23
-166-81-1731,(09)-3433-4870,Winston–Salem (North Carolina),Divorced,Ed Schank,1984-05-25
+166-81-1731,(09)-3433-4870,Winstonâ€“Salem (North Carolina),Divorced,Ed Schank,1984-05-25
 287-99-1758,(03)-9854-6629,Saint Paul (Minnesota),Divorced,Christine Salomon,1975-02-21
 224-32-1805,(05)-5902-4983,Dallas (Texas),Common-Law,Ron Billingsley,1974-01-10
 238-74-1074,(04)-5854-3345,Sacramento (California),Single,Mei Mallon,1972-12-29
@@ -5377,7 +5377,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 381-74-1612,(05)-9292-7887,Chandler (Arizona),Single,Cassie Torrez,1969-12-15
 320-31-1012,(09)-2905-7659,San Francisco (California),Divorced,Everett Skillings,1980-05-06
 425-25-1291,(04)-8435-4606,St. Petersburg (Florida),Common-Law,Estela Rochon,1976-08-29
-224-54-1338,(09)-6865-7286,Winston–Salem (North Carolina),Married,Lottie Cummings,1979-08-02
+224-54-1338,(09)-6865-7286,Winstonâ€“Salem (North Carolina),Married,Lottie Cummings,1979-08-02
 381-81-1489,(07)-5902-2714,Anaheim (California),Divorced,Corinne Rockwood,1980-03-02
 391-55-1193,(08)-5592-4444,Kansas City (Missouri),Single,Tressie Brackett,1977-01-03
 368-25-1367,(07)-1199-8405,Honolulu (Hawaii),Common-Law,Daryl Burnham,1986-11-07
@@ -5406,7 +5406,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 177-85-1262,(09)-6473-1452,Irvine (California),Married,Briana Cassette,1970-08-08
 408-46-1732,(08)-9719-3278,Saint Paul (Minnesota),Single,Marcell Chiles,1977-04-15
 381-34-1108,(05)-5125-9523,Baton Rouge (Louisiana),Divorced,Shaunna Mayers,1988-05-18
-429-85-1359,(03)-2905-1423,Winston–Salem (North Carolina),Single,Nola Mckamey,1975-03-24
+429-85-1359,(03)-2905-1423,Winstonâ€“Salem (North Carolina),Single,Nola Mckamey,1975-03-24
 238-55-1605,(07)-9333-4339,Los Angeles (California),Married,Derrick Emrich,1970-06-25
 408-51-1733,(09)-8685-8055,Anchorage (Alaska),Married,Vince Dunn,1975-09-24
 144-93-1680,(04)-3320-7191,Dallas (Texas),Common-Law,Meagan Simmons,1969-07-14
@@ -5547,7 +5547,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 238-55-1757,(03)-5050-2714,North Las Vegas (Nevada),Married,Melanie Petri,1977-11-04
 323-30-1605,(09)-9365-3554,Fremont (California),Common-Law,Mattie Mounts,1983-11-16
 323-32-1399,(03)-5592-9910,Indianapolis[11] (Indiana),Divorced,Janay Cruz,1977-05-22
-339-54-1579,(03)-7703-7286,Winston–Salem (North Carolina),Single,Joann Myer,1982-09-15
+339-54-1579,(03)-7703-7286,Winstonâ€“Salem (North Carolina),Single,Joann Myer,1982-09-15
 177-31-1285,(08)-3433-8548,Reno (Nevada),Single,Eun Huizar,1985-11-25
 177-81-1376,(09)-1199-9114,Reno (Nevada),Married,Alena Usher,1983-02-27
 381-54-1950,(09)-6473-5801,San Antonio (Texas),Single,Lila Defilippo,1985-09-19
@@ -5593,7 +5593,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 339-83-1519,(07)-8435-7659,Tampa (Florida),Single,Madie Alvarez,1971-05-09
 216-31-1345,(03)-4858-5326,Hialeah (Florida),Married,Ilse Eady,1975-02-26
 216-74-1216,(04)-8288-1247,Reno (Nevada),Single,Sal Olinger,1969-08-21
-279-44-1156,(07)-3433-8568,Winston–Salem (North Carolina),Divorced,Joel Renaud,1979-06-23
+279-44-1156,(07)-3433-8568,Winstonâ€“Salem (North Carolina),Divorced,Joel Renaud,1979-06-23
 279-99-1757,(07)-6812-9114,Santa Ana (California),Divorced,Deanna Kauffman,1980-09-04
 224-31-1731,(09)-4370-6681,Los Angeles (California),Single,Sergio Shapiro,1973-01-14
 238-25-1137,(04)-4370-7818,Tulsa (Oklahoma),Married,Ernie Hundt,1971-12-20
@@ -5658,7 +5658,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 381-46-1655,(09)-3468-7527,Fort Worth (Texas),Divorced,Eloise Mcfadden,1972-11-28
 116-99-1519,(05)-4370-2465,Newark (New Jersey),Single,Kieth Loomis,1970-12-18
 287-44-1019,(07)-4858-9523,Hialeah (Florida),Single,Leonor Bradley,1987-09-26
-391-25-1723,(03)-4858-4339,Winston–Salem (North Carolina),Divorced,Evan Fogle,1970-08-02
+391-25-1723,(03)-4858-4339,Winstonâ€“Salem (North Carolina),Divorced,Evan Fogle,1970-08-02
 301-23-1442,(08)-9854-8193,Pittsburgh (Pennsylvania),Single,Neil Couch,1981-09-21
 224-93-1629,(09)-3320-1791,Garland (Texas),Single,Phillip Zimmer,1986-06-08
 238-55-1022,(08)-3468-8223,Anaheim (California),Married,Richie Teague,1970-03-08
@@ -5745,7 +5745,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 287-82-1979,(09)-7703-3563,Toledo (Ohio),Married,Howard Bruce,1990-06-23
 144-23-1579,(05)-6865-5202,Detroit (Michigan),Married,Brendan Morgan,1978-05-25
 279-31-1137,(08)-1199-7887,San Antonio (Texas),Married,Quentin Solum,1975-12-14
-323-60-1809,(05)-3949-4394,Winston–Salem (North Carolina),Married,Justina Mantz,1988-11-15
+323-60-1809,(05)-3949-4394,Winstonâ€“Salem (North Carolina),Married,Justina Mantz,1988-11-15
 301-32-1981,(05)-5050-7370,Gilbert (Arizona),Divorced,Harry Rosenberg,1976-07-30
 144-46-1491,(05)-5854-6898,Laredo (Texas),Common-Law,Kelley Delarosa,1970-04-28
 177-81-1924,(07)-5050-5119,Miami (Florida),Married,Brant Loos,1984-09-20
@@ -5823,7 +5823,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 381-60-1733,(08)-7504-9114,Indianapolis[11] (Indiana),Single,Lelia Foote,1978-11-01
 339-83-1496,(05)-9235-4206,Anaheim (California),Common-Law,Bryant Levron,1985-07-01
 408-54-1924,(03)-5794-4289,Chesapeake (Virginia),Divorced,Debbie Clack,1990-07-17
-138-83-1074,(09)-7703-2465,Winston–Salem (North Carolina),Divorced,Tim Guidry,1977-12-09
+138-83-1074,(09)-7703-2465,Winstonâ€“Salem (North Carolina),Divorced,Tim Guidry,1977-12-09
 339-55-1263,(07)-3858-5202,San Bernardino (California),Divorced,Allison Douglas,1981-12-26
 166-60-1374,(09)-3949-5075,Minneapolis (Minnesota),Divorced,Lakeisha Hawke,1984-02-13
 166-85-1019,(05)-5146-9511,Los Angeles (California),Common-Law,Elouise Batten,1969-11-23
@@ -5935,7 +5935,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 320-32-1629,(08)-3949-6629,Lubbock (Texas),Divorced,Luz England,1976-08-01
 138-74-1227,(04)-4370-3197,San Bernardino (California),Married,Carrie Vessels,1974-11-07
 425-83-1995,(04)-3949-8640,Greensboro (North Carolina),Married,Brooke Vicini,1990-05-16
-287-44-1148,(05)-6975-7887,Winston–Salem (North Carolina),Single,Louie Gaines,1981-09-24
+287-44-1148,(05)-6975-7887,Winstonâ€“Salem (North Carolina),Single,Louie Gaines,1981-09-24
 408-54-1914,(03)-6745-5686,Lincoln (Nebraska),Married,Dominic Levin,1971-08-19
 116-83-1957,(05)-5050-6781,Albuquerque (New Mexico),Single,Henry Imler,1980-06-12
 138-51-1285,(04)-9333-7414,Tulsa (Oklahoma),Common-Law,Marilynn Thompson,1980-02-01
@@ -5955,7 +5955,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 408-25-1703,(08)-5330-7659,Charlotte (North Carolina),Married,Ileana Loyd,1975-02-18
 391-60-1732,(05)-5002-9523,Jacksonville (Florida),Single,Bob Barlett,1982-11-21
 216-82-1664,(08)-6865-6922,Jacksonville (Florida),Single,Ernestine Mak,1981-06-25
-323-93-1259,(05)-6473-3325,Winston–Salem (North Carolina),Common-Law,Janet Tice,1976-10-07
+323-93-1259,(05)-6473-3325,Winstonâ€“Salem (North Carolina),Common-Law,Janet Tice,1976-10-07
 391-51-1483,(05)-7504-3325,Jacksonville (Florida),Common-Law,Malcolm Stout,1980-10-28
 177-23-1801,(04)-9235-8507,Hialeah (Florida),Married,Lori Shellenbarger,1988-09-04
 166-34-1535,(09)-5592-2315,Greensboro (North Carolina),Married,Nathan Dahl,1973-04-12
@@ -6151,7 +6151,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 287-93-1000,(08)-8435-9910,New York (New York),Married,Leah Kwon,1988-08-26
 216-44-1332,(09)-9292-4208,Reno (Nevada),Married,Horace Atlas,1977-07-04
 166-82-1979,(03)-2905-3038,El Paso (Texas),Common-Law,Janice Bohannon,1987-05-17
-368-18-1718,(04)-8435-1247,Winston–Salem (North Carolina),Married,Tana Melendez,1984-05-23
+368-18-1718,(04)-8435-1247,Winstonâ€“Salem (North Carolina),Married,Tana Melendez,1984-05-23
 279-60-1759,(05)-5502-7286,San Antonio (Texas),Single,Pauline Toney,1970-02-09
 368-34-1882,(09)-5502-3345,Raleigh (North Carolina),Married,Cesar Crawford,1974-05-27
 320-81-1731,(08)-7504-1791,San Antonio (Texas),Married,Sung Whitely,1979-03-22
@@ -6454,9 +6454,9 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 144-93-1629,(08)-1199-4634,Santa Ana (California),Married,Theresa Gruber,1973-01-03
 144-51-1666,(07)-6745-5075,North Las Vegas (Nevada),Married,Janita Monk,1970-04-03
 216-32-1727,(08)-8435-1423,Memphis (Tennessee),Single,Bernarda Cashwell,1982-11-13
-166-99-1957,(08)-5580-2115,Winston–Salem (North Carolina),Divorced,Chandra Bowens,1971-07-26
+166-99-1957,(08)-5580-2115,Winstonâ€“Salem (North Carolina),Divorced,Chandra Bowens,1971-07-26
 224-81-1331,(08)-3858-5970,Louisville (Kentucky),Married,Esther Newberg,1977-08-19
-238-51-1217,(04)-4858-6766,Winston–Salem (North Carolina),Divorced,Denis Pritchett,1982-05-05
+238-51-1217,(04)-4858-6766,Winstonâ€“Salem (North Carolina),Divorced,Denis Pritchett,1982-05-05
 323-25-1655,(04)-6745-7352,Corpus Christi (Texas),Divorced,Sammy Salmons,1969-07-22
 144-99-1680,(05)-1350-2465,Richmond (Virginia),Divorced,Cori Blizzard,1979-01-19
 339-60-1423,(03)-8435-4508,Lincoln (Nebraska),Single,Hattie Chason,1969-11-11
@@ -6515,7 +6515,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 138-93-1084,(09)-7905-5202,Cleveland (Ohio),Single,Adrienne Carpio,1989-07-23
 381-83-1771,(03)-9235-9470,Chesapeake (Virginia),Divorced,Christine Molyneux,1985-10-01
 138-44-1021,(07)-9333-7434,Plano (Texas),Common-Law,Kirk Reeder,1984-08-12
-425-51-1851,(03)-8685-1791,Winston–Salem (North Carolina),Married,Mauricio Kaczmarek,1990-03-19
+425-51-1851,(03)-8685-1791,Winstonâ€“Salem (North Carolina),Married,Mauricio Kaczmarek,1990-03-19
 381-74-1995,(08)-6812-6500,Chicago (Illinois),Divorced,Kelley Perrin,1986-07-04
 323-85-1329,(03)-9719-2115,Nashville (Tennessee),Divorced,Constance Bergman,1989-05-16
 339-51-1676,(03)-8685-1478,San Antonio (Texas),Single,Tami Seim,1971-01-08
@@ -6560,7 +6560,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 368-31-1163,(08)-5854-5326,Gilbert (Arizona),Common-Law,Augusta Roberson,1984-06-24
 224-74-1226,(08)-4286-5952,Fresno (California),Common-Law,Rosalind Herren,1988-07-31
 368-25-1924,(07)-7703-8405,Honolulu (Hawaii),Single,Edmund Stansfield,1984-04-23
-391-54-1235,(08)-9365-5202,Winston–Salem (North Carolina),Single,Winnie Isaacs,1975-07-20
+391-54-1235,(08)-9365-5202,Winstonâ€“Salem (North Carolina),Single,Winnie Isaacs,1975-07-20
 339-55-1642,(04)-3858-9511,Durham (North Carolina),Single,Patti Crowe,1981-08-16
 216-34-1156,(07)-9365-7434,Detroit (Michigan),Divorced,Lyle Willhite,1975-10-12
 425-55-1435,(03)-3339-1179,New Orleans (Louisiana),Common-Law,Jerry Greenwood,1986-09-11
@@ -6600,7 +6600,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 408-81-1448,(05)-7905-5867,Fremont (California),Single,Bettyann Plank,1986-09-09
 279-25-1825,(03)-3949-6766,Fort Wayne (Indiana),Common-Law,Sharron Arana,1984-05-10
 425-34-1535,(09)-2905-5019,Fresno (California),Common-Law,Jan Rohde,1976-02-24
-166-60-1022,(05)-4286-8548,Winston–Salem (North Carolina),Common-Law,Liz Goldenberg,1985-11-25
+166-60-1022,(05)-4286-8548,Winstonâ€“Salem (North Carolina),Common-Law,Liz Goldenberg,1985-11-25
 138-34-1840,(09)-5125-2315,Cleveland (Ohio),Common-Law,Ocie Braley,1983-06-06
 279-81-1992,(07)-3433-8640,Hialeah (Florida),Divorced,Timmy Clow,1981-08-30
 381-32-1529,(04)-5592-6500,Baton Rouge (Louisiana),Divorced,Lisa Watters,1988-06-20
@@ -6642,7 +6642,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 320-74-1995,(04)-9999-2611,Boston (Massachusetts),Single,Dora Percy,1978-07-26
 425-93-1202,(03)-2905-7402,Chicago (Illinois),Married,Brittaney Palma,1986-07-24
 216-46-1468,(07)-7905-1433,Albuquerque (New Mexico),Divorced,Alyson Balling,1970-12-28
-408-31-1107,(08)-2926-3345,Winston–Salem (North Carolina),Divorced,Vaughn Byrd,1973-05-14
+408-31-1107,(08)-2926-3345,Winstonâ€“Salem (North Carolina),Divorced,Vaughn Byrd,1973-05-14
 425-18-1262,(03)-9719-6502,Denver (Colorado),Divorced,Andre Dyck,1980-06-05
 391-46-1108,(07)-7703-1423,Baton Rouge (Louisiana),Single,Paige Yee,1983-03-20
 391-81-1108,(03)-1350-8055,Hialeah (Florida),Divorced,Olivia Zalewski,1987-01-13
@@ -6863,12 +6863,12 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 279-46-1433,(08)-1350-6500,Saint Paul (Minnesota),Married,Verlie Sears,1970-08-25
 238-81-1224,(08)-7973-8193,Aurora (Colorado),Married,Robbin Partee,1979-07-22
 339-82-1038,(04)-6473-7370,Honolulu (Hawaii),Single,Spencer Dickerson,1974-04-19
-279-81-1828,(07)-3468-6898,Winston–Salem (North Carolina),Married,Rosalee Newell,1975-09-13
+279-81-1828,(07)-3468-6898,Winstonâ€“Salem (North Carolina),Married,Rosalee Newell,1975-09-13
 238-32-1579,(07)-6812-7527,Omaha (Nebraska),Married,Merle Isabelle,1990-12-18
 429-51-1851,(07)-7905-1478,Phoenix (Arizona),Single,Deloris Gross,1973-08-10
 381-74-1559,(07)-6865-2315,Minneapolis (Minnesota),Common-Law,Fannie Rios,1977-03-10
 166-99-1943,(03)-3433-7434,Indianapolis[11] (Indiana),Married,Alice Turek,1986-09-08
-224-25-1680,(07)-9719-3997,Winston–Salem (North Carolina),Divorced,Rex Vicini,1979-02-24
+224-25-1680,(07)-9719-3997,Winstonâ€“Salem (North Carolina),Divorced,Rex Vicini,1979-02-24
 177-23-2000,(07)-6812-1423,San Jose (California),Divorced,Otha Tobar,1989-03-09
 320-93-1958,(07)-3460-1452,San Francisco (California),Divorced,Preston Gillis,1989-01-25
 166-44-1979,(07)-5125-4394,Cincinnati (Ohio),Common-Law,Arnette Bischof,1975-04-04
@@ -6922,7 +6922,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 177-81-1193,(08)-9365-1764,Houston (Texas),Married,Rosalie Savard,1972-08-18
 216-55-1514,(09)-4370-2714,Stockton (California),Single,Dewayne Banks,1970-12-07
 368-34-1022,(05)-2905-8968,Honolulu (Hawaii),Single,Gertrude Mcgowan,1982-01-24
-238-46-1479,(07)-7905-8968,Winston–Salem (North Carolina),Single,Estela Laster,1985-12-21
+238-46-1479,(07)-7905-8968,Winstonâ€“Salem (North Carolina),Single,Estela Laster,1985-12-21
 301-23-1423,(03)-6812-8567,Memphis (Tennessee),Married,Leslie Oyola,1971-02-04
 339-54-1828,(04)-9333-6362,Arlington (Texas),Common-Law,Oscar Robbins,1990-03-23
 408-25-1315,(05)-6812-3197,San Antonio (Texas),Divorced,Mariano Rhymer,1981-10-22
@@ -6953,7 +6953,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 216-85-1159,(05)-3460-3038,Virginia Beach (Virginia),Married,Jon Jenkins,1970-06-13
 408-30-1283,(08)-1350-1179,Oakland (California),Divorced,Allyson Ferrara,1969-02-25
 224-81-1583,(04)-3320-8055,Seattle (Washington),Divorced,Heath Nickel,1974-02-01
-177-82-1954,(07)-5062-2735,Winston–Salem (North Carolina),Married,Addie Colon,1975-01-08
+177-82-1954,(07)-5062-2735,Winstonâ€“Salem (North Carolina),Married,Addie Colon,1975-01-08
 177-93-1519,(09)-3468-8640,Richmond (Virginia),Common-Law,Rudolph Goldman,1978-08-07
 116-44-1882,(03)-9235-3325,Cincinnati (Ohio),Married,Art Jamison,1985-10-03
 301-32-1216,(08)-7703-9523,Riverside (California),Divorced,Corinne Won,1976-02-14
@@ -7025,7 +7025,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 287-60-1313,(04)-6745-8567,Long Beach (California),Divorced,Omar Jolliff,1978-12-20
 144-44-1423,(08)-9719-7286,Virginia Beach (Virginia),Married,Shawnta Mayfield,1978-11-24
 116-31-1378,(05)-5125-9130,Chandler (Arizona),Common-Law,Delbert Doney,1978-09-19
-144-18-1433,(09)-5179-5801,Winston–Salem (North Carolina),Married,Roberto Cadwell,1986-06-05
+144-18-1433,(09)-5179-5801,Winstonâ€“Salem (North Carolina),Married,Roberto Cadwell,1986-06-05
 381-34-1312,(03)-7703-6922,Richmond (Virginia),Common-Law,Mandy Vines,1976-10-05
 408-44-1156,(07)-7508-1764,Irving (Texas),Single,Donn Sedlacek,1980-03-13
 320-60-1813,(04)-9854-5388,New Orleans (Louisiana),Married,Millie Strauss,1976-09-24
@@ -7173,7 +7173,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 408-55-1871,(09)-5592-6362,Oklahoma City (Oklahoma),Divorced,Jared Cato,1985-10-16
 323-18-1519,(09)-8435-5119,Glendale (Arizona),Single,Carlene Wall,1971-01-09
 323-54-1237,(07)-7905-6781,St. Louis (Missouri),Married,Becky Schumann,1989-09-13
-381-93-1519,(08)-6473-9187,Winston–Salem (North Carolina),Married,Jude Delay,1980-06-24
+381-93-1519,(08)-6473-9187,Winstonâ€“Salem (North Carolina),Married,Jude Delay,1980-06-24
 391-30-1000,(05)-3858-7286,Oklahoma City (Oklahoma),Divorced,Melani Bolton,1985-06-03
 381-74-1393,(07)-8288-5202,Greensboro (North Carolina),Single,Verna Ivery,1973-10-23
 287-83-1731,(08)-7508-8567,Boston (Massachusetts),Single,Marta Rudolph,1977-11-29
@@ -7286,7 +7286,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 320-51-1158,(09)-7973-8567,Anchorage (Alaska),Married,Althea Callaghan,1970-10-31
 301-54-1313,(09)-3339-3563,Virginia Beach (Virginia),Married,Shaun Riddles,1988-04-13
 238-82-1067,(04)-5002-9661,New York (New York),Divorced,Karren Goldsmith,1990-02-19
-224-60-1054,(08)-4370-3554,Winston–Salem (North Carolina),Single,Ryann Bloodworth,1982-01-25
+224-60-1054,(08)-4370-3554,Winstonâ€“Salem (North Carolina),Single,Ryann Bloodworth,1982-01-25
 287-34-1217,(08)-5002-2714,Arlington (Texas),Single,Rosalie Rawlins,1987-01-09
 138-83-1159,(05)-5125-8193,Irving (Texas),Married,Boyd Weymouth,1973-07-31
 144-32-1108,(03)-5794-2714,Garland (Texas),Married,Alexander Caro,1983-10-05
@@ -7431,7 +7431,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 425-54-1399,(09)-7504-7887,Scottsdale (Arizona),Common-Law,Isabelle Potter,1982-09-29
 144-30-1603,(05)-4858-5713,Pittsburgh (Pennsylvania),Divorced,Normand Neil,1985-12-07
 301-18-1140,(07)-6975-8432,Austin (Texas),Common-Law,Usha Flatt,1988-05-31
-144-31-1025,(08)-5002-4983,Winston–Salem (North Carolina),Married,Herman Verner,1989-04-02
+144-31-1025,(08)-5002-4983,Winstonâ€“Salem (North Carolina),Married,Herman Verner,1989-04-02
 116-44-1435,(09)-5062-4634,Hialeah (Florida),Married,Kirsten Gaspar,1983-05-08
 138-60-1491,(03)-5125-7414,Reno (Nevada),Divorced,Vonda Wing,1970-02-27
 301-55-1543,(07)-9235-4208,Lexington (Kentucky),Single,Mitchell Poe,1983-02-10
@@ -7831,7 +7831,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 279-81-1331,(08)-3339-1452,Houston (Texas),Single,Normand Coffey,1977-06-06
 425-31-1093,(07)-6473-1114,Chicago (Illinois),Divorced,Debora Shannon,1969-02-21
 323-31-1237,(09)-3858-3997,Lubbock (Texas),Married,Robbin Hunter,1987-07-06
-279-83-1315,(09)-2298-2465,Winston–Salem (North Carolina),Single,Marjory Holley,1986-04-24
+279-83-1315,(09)-2298-2465,Winstonâ€“Salem (North Carolina),Single,Marjory Holley,1986-04-24
 391-46-1332,(03)-5854-4394,Seattle (Washington),Common-Law,Maggie Melvin,1969-07-09
 381-51-1603,(05)-5062-6898,Mesa (Arizona),Single,Lynda Bartels,1979-08-25
 425-93-1061,(09)-7905-7818,Atlanta (Georgia),Divorced,Bertha Michell,1969-08-31
@@ -7843,7 +7843,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 368-82-1051,(03)-6191-5686,Buffalo (New York),Divorced,Tyrell Welter,1969-08-12
 339-23-1291,(07)-6486-9661,Greensboro (North Carolina),Divorced,Kent Cartwright,1980-08-14
 323-30-1021,(05)-8288-4394,Boise (Idaho),Divorced,Leonardo Human,1977-03-25
-425-18-1074,(08)-6745-1179,Winston–Salem (North Carolina),Married,Gabrielle Hedrick,1984-02-17
+425-18-1074,(08)-6745-1179,Winstonâ€“Salem (North Carolina),Married,Gabrielle Hedrick,1984-02-17
 425-18-1563,(07)-3339-8405,Albuquerque (New Mexico),Married,Ruben Veal,1988-05-08
 138-32-1291,(04)-5125-9910,Cleveland (Ohio),Married,Russel Graff,1982-03-19
 177-31-1968,(07)-3320-4289,Greensboro (North Carolina),Married,Candy Meadows,1986-11-11
@@ -8036,7 +8036,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 408-32-1954,(04)-7508-6535,Saint Paul (Minnesota),Single,Otis Rossiter,1979-10-28
 138-60-1840,(04)-6473-9114,Reno (Nevada),Married,Bill Ricks,1973-06-25
 323-30-1051,(09)-9365-7191,Irving (Texas),Married,Joelle Tiedeman,1977-12-29
-138-51-1854,(07)-6745-6781,Winston–Salem (North Carolina),Married,Herlinda Otey,1987-02-23
+138-51-1854,(07)-6745-6781,Winstonâ€“Salem (North Carolina),Married,Herlinda Otey,1987-02-23
 279-99-1680,(05)-8435-1452,Boston (Massachusetts),Married,Sharron Fruge,1981-12-13
 323-31-1943,(03)-6473-7434,Fort Wayne (Indiana),Single,Margret Beale,1972-08-24
 301-54-1393,(09)-9333-1179,Sacramento (California),Married,Josh Mulligan,1981-08-29
@@ -8165,7 +8165,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 116-30-1882,(03)-6812-3325,Sacramento (California),Common-Law,Chantel Barron,1972-07-09
 279-99-1840,(04)-3339-9187,Boise (Idaho),Divorced,Lovie Foss,1981-05-11
 238-31-1312,(05)-6191-3345,Bakersfield (California),Married,Dillon Outen,1989-10-14
-138-82-1813,(04)-3949-1764,Winston–Salem (North Carolina),Divorced,Sunny Panos,1978-11-19
+138-82-1813,(04)-3949-1764,Winstonâ€“Salem (North Carolina),Divorced,Sunny Panos,1978-11-19
 166-55-1811,(08)-5062-7818,Orlando (Florida),Common-Law,Elizebeth Erbe,1985-09-16
 144-18-1393,(04)-9719-7191,Omaha (Nebraska),Single,Titus Barney,1990-12-29
 391-31-1043,(09)-6975-2315,Mesa (Arizona),Common-Law,Sheree Sweeney,1985-05-21
@@ -8199,7 +8199,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 144-31-1496,(05)-5854-6502,Tucson (Arizona),Common-Law,Debra Espino,1978-10-21
 368-83-1612,(07)-1199-5241,Fremont (California),Divorced,Karl Le,1990-12-14
 287-85-1805,(05)-5146-8405,Jersey City (New Jersey),Common-Law,Nicole Vanhook,1986-08-19
-339-46-1664,(08)-6486-6362,Winston–Salem (North Carolina),Married,Phillip Hoffmann,1976-12-11
+339-46-1664,(08)-6486-6362,Winstonâ€“Salem (North Carolina),Married,Phillip Hoffmann,1976-12-11
 391-46-1217,(04)-5580-3345,Jacksonville (Florida),Single,Conrad Sandford,1982-06-01
 429-30-1093,(08)-9999-5075,Anaheim (California),Married,Joseph Stringham,1974-09-08
 144-32-1753,(03)-2905-5867,Omaha (Nebraska),Common-Law,Orlando Snodgrass,1976-06-17
@@ -8387,7 +8387,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 177-44-1893,(03)-4370-1114,Gilbert (Arizona),Common-Law,Aubrey Bouknight,1969-12-30
 279-46-1053,(05)-3949-7191,Aurora (Colorado),Common-Law,Lorrie Hampton,1982-08-26
 425-31-1579,(07)-3339-7286,San Bernardino (California),Single,Jana Jamison,1989-05-22
-381-81-1529,(05)-5592-7352,Winston–Salem (North Carolina),Divorced,Gladys Weyant,1976-05-12
+381-81-1529,(05)-5592-7352,Winstonâ€“Salem (North Carolina),Divorced,Gladys Weyant,1976-05-12
 368-31-1985,(04)-5330-5965,Detroit (Michigan),Common-Law,Merrill Joyner,1970-01-25
 425-55-1974,(03)-7508-7818,Scottsdale (Arizona),Divorced,Toshia Thorson,1970-03-17
 368-54-1051,(04)-8435-2714,Phoenix (Arizona),Married,Brandy Schipper,1990-03-01
@@ -8575,7 +8575,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 391-93-1235,(08)-4370-7370,Fremont (California),Common-Law,Clement Rosenthal,1970-10-26
 429-54-1313,(03)-8435-6502,San Francisco (California),Single,Maxine Stocks,1990-04-26
 224-32-1837,(03)-5062-8223,Cleveland (Ohio),Married,Alexis Ament,1988-08-13
-144-93-1837,(03)-5002-7208,Winston–Salem (North Carolina),Common-Law,Mia Dietz,1987-05-18
+144-93-1837,(03)-5002-7208,Winstonâ€“Salem (North Carolina),Common-Law,Mia Dietz,1987-05-18
 287-32-1912,(03)-5062-1633,St. Petersburg (Florida),Common-Law,Marianna Hall,1978-07-27
 144-54-1479,(07)-5502-1179,Los Angeles (California),Married,Ramona Tew,1976-07-08
 216-25-1405,(07)-5902-3262,Phoenix (Arizona),Married,Gisela Book,1983-07-12
@@ -8631,7 +8631,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 368-44-1771,(04)-4858-7352,Corpus Christi (Texas),Divorced,Georgianne Strickland,1970-01-03
 391-32-1163,(07)-1199-8432,Seattle (Washington),Single,Laquita Brewton,1978-12-22
 339-83-1057,(05)-3339-7414,Minneapolis (Minnesota),Married,Idell Akridge,1989-01-25
-138-82-1093,(03)-4370-2725,Winston–Salem (North Carolina),Married,Misty Mathes,1983-12-02
+138-82-1093,(03)-4370-2725,Winstonâ€“Salem (North Carolina),Married,Misty Mathes,1983-12-02
 381-60-1854,(03)-9333-4289,Long Beach (California),Common-Law,Suzanne Valenzuela,1983-04-28
 116-99-1006,(05)-6191-2725,Washington (District of Columbia),Married,Van Prindle,1969-03-08
 339-55-1813,(07)-7905-2115,Chesapeake (Virginia),Single,Sam Neary,1980-10-13
@@ -8733,7 +8733,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 391-55-1612,(05)-3468-2735,Buffalo (New York),Divorced,Gina Musgrove,1989-05-15
 216-23-1291,(03)-1350-1764,Colorado Springs (Colorado),Divorced,Brandie Theobald,1982-12-03
 166-74-1286,(04)-7973-2714,Dallas (Texas),Divorced,Dwight Brewton,1982-11-06
-287-44-1612,(07)-9235-1433,Winston–Salem (North Carolina),Single,Theresa Servais,1971-07-31
+287-44-1612,(07)-9235-1433,Winstonâ€“Salem (North Carolina),Single,Theresa Servais,1971-07-31
 301-18-1289,(09)-7508-5388,Lexington (Kentucky),Divorced,Nathanael Torgerson,1976-11-22
 391-99-1011,(04)-9999-7208,Memphis (Tennessee),Single,Lora Costello,1975-10-08
 368-54-1813,(07)-9365-5019,Madison (Wisconsin),Married,Elton Brito,1972-02-14
@@ -8845,7 +8845,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 216-93-1811,(04)-3858-3325,Plano (Texas),Divorced,Evette Michael,1989-05-14
 391-54-1158,(04)-4370-6502,El Paso (Texas),Divorced,Aubrey Parks,1988-02-18
 323-85-1549,(07)-5902-6535,Bakersfield (California),Divorced,Walter Kier,1975-11-20
-425-82-1500,(09)-2905-2465,Winston–Salem (North Carolina),Divorced,Hazel Pirtle,1985-02-13
+425-82-1500,(09)-2905-2465,Winstonâ€“Salem (North Carolina),Divorced,Hazel Pirtle,1985-02-13
 138-60-1401,(03)-3858-7887,Tulsa (Oklahoma),Divorced,Dianne Treat,1969-07-28
 323-74-1338,(04)-6191-4508,San Jose (California),Divorced,Eugenio Millner,1983-06-23
 429-46-1825,(04)-7905-4394,Riverside (California),Divorced,Marci Battles,1983-01-04
@@ -8861,7 +8861,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 381-32-1051,(05)-6486-6480,Lubbock (Texas),Single,Chester Krok,1986-07-24
 339-51-1158,(04)-1350-3278,Lincoln (Nebraska),Married,Natalia Wark,1972-11-22
 166-46-1615,(07)-8685-2465,Chicago (Illinois),Divorced,Nikki Severson,1969-12-04
-216-30-1269,(09)-6486-8432,Winston–Salem (North Carolina),Married,Angelo Weitz,1971-12-14
+216-30-1269,(09)-6486-8432,Winstonâ€“Salem (North Carolina),Married,Angelo Weitz,1971-12-14
 166-46-1676,(05)-8435-8968,Boise (Idaho),Common-Law,Jody Mcauliffe,1985-01-04
 323-25-1747,(04)-6812-9470,Durham (North Carolina),Single,Aurelio Mulhern,1989-04-22
 425-44-1514,(04)-5794-5686,Hialeah (Florida),Single,Delia Peaslee,1975-02-14
@@ -8925,7 +8925,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 425-81-1148,(05)-5125-5867,Laredo (Texas),Single,Shawna Pena,1980-03-19
 429-32-1237,(04)-5502-6781,Buffalo (New York),Single,Samuel Lett,1976-10-08
 408-60-1269,(04)-9333-4206,Cincinnati (Ohio),Married,Chasity Rivera,1980-05-26
-323-30-1057,(08)-6975-3278,Winston–Salem (North Carolina),Single,Lawerence Hambrick,1980-07-29
+323-30-1057,(08)-6975-3278,Winstonâ€“Salem (North Carolina),Single,Lawerence Hambrick,1980-07-29
 138-83-1057,(08)-2926-6766,Jacksonville (Florida),Divorced,Merrill Bushey,1978-04-28
 144-23-1643,(03)-6486-6480,Pittsburgh (Pennsylvania),Common-Law,Kasey Moffett,1971-11-15
 381-31-1995,(05)-4858-5801,Long Beach (California),Divorced,Alyssa Hartzler,1986-11-13
@@ -8985,7 +8985,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 287-99-1285,(03)-6486-4394,Wichita (Kansas),Single,Nathan Gass,1990-09-12
 408-93-1202,(04)-5580-9910,Atlanta (Georgia),Married,Dayle Seitz,1974-12-12
 177-30-1061,(07)-3320-5202,Cincinnati (Ohio),Common-Law,Joey Borchers,1979-08-06
-320-44-1666,(04)-5502-8567,Winston–Salem (North Carolina),Single,Taylor Keller,1973-08-03
+320-44-1666,(04)-5502-8567,Winstonâ€“Salem (North Carolina),Single,Taylor Keller,1973-08-03
 216-32-1483,(08)-1350-9523,Richmond (Virginia),Single,Shaun Gil,1975-10-16
 116-83-1822,(09)-7703-6922,Milwaukee (Wisconsin),Single,Santiago Estrada,1979-04-28
 144-55-1108,(08)-2926-8193,Glendale (Arizona),Married,Emmanuel Boles,1979-01-13
@@ -9319,7 +9319,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 287-30-1620,(04)-5330-4208,Toledo (Ohio),Divorced,Brandy Chatman,1973-03-10
 301-85-1269,(07)-5794-6502,Anaheim (California),Divorced,Earl Leclerc,1980-10-18
 320-60-1731,(08)-4858-8567,Orlando (Florida),Common-Law,Lakisha Roberts,1982-01-10
-177-82-1907,(05)-5179-7191,Winston–Salem (North Carolina),Divorced,Cassandra Sedlacek,1985-09-13
+177-82-1907,(05)-5179-7191,Winstonâ€“Salem (North Carolina),Divorced,Cassandra Sedlacek,1985-09-13
 391-25-1050,(05)-2298-7402,San Bernardino (California),Married,Elliot Beyer,1976-01-31
 381-82-1108,(03)-3858-7456,Baton Rouge (Louisiana),Single,Herlinda Rachel,1978-09-13
 166-83-1718,(07)-9365-5970,St. Petersburg (Florida),Divorced,Bettie Menges,1978-04-27
@@ -9363,7 +9363,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 224-60-1718,(04)-5002-1633,Memphis (Tennessee),Common-Law,Bert Edgington,1970-02-15
 368-31-1768,(07)-2926-6629,Chula Vista (California),Single,Sidney Garrison,1979-10-09
 116-18-1507,(03)-4286-5560,Long Beach (California),Divorced,Tommie Harvell,1970-07-01
-381-99-1224,(04)-6191-3563,Winston–Salem (North Carolina),Divorced,Marcus Huntsman,1981-02-01
+381-99-1224,(04)-6191-3563,Winstonâ€“Salem (North Carolina),Divorced,Marcus Huntsman,1981-02-01
 166-54-1992,(09)-7703-6500,Oakland (California),Married,Melva Lockhart,1984-04-06
 425-99-1612,(08)-5146-7370,Milwaukee (Wisconsin),Common-Law,Billie Herring,1984-06-25
 391-25-1891,(07)-4286-3038,Cleveland (Ohio),Married,Lucas Stinson,1990-09-21
@@ -9399,7 +9399,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 323-44-1315,(05)-8435-7659,Santa Ana (California),Common-Law,Alyssa Broadwater,1977-05-14
 177-51-1907,(03)-5854-6502,Houston (Texas),Common-Law,Latisha Sato,1986-01-06
 408-30-1051,(09)-4858-1633,Tampa (Florida),Common-Law,Harley Morrissette,1979-12-29
-429-31-1344,(04)-9999-2725,Winston–Salem (North Carolina),Common-Law,Lorina Royal,1986-09-22
+429-31-1344,(04)-9999-2725,Winstonâ€“Salem (North Carolina),Common-Law,Lorina Royal,1986-09-22
 287-44-1723,(03)-5902-4394,Milwaukee (Wisconsin),Divorced,Damien Fuhr,1984-05-28
 166-34-1237,(07)-9235-9661,Nashville (Tennessee),Single,Olivia Pew,1982-04-09
 216-83-1563,(08)-6473-8405,Anchorage (Alaska),Divorced,Arnette Corcoran,1988-02-25
@@ -9500,7 +9500,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 279-54-1339,(04)-2298-5019,Atlanta (Georgia),Single,Lucy Maddox,1981-06-22
 177-54-1291,(03)-1350-9511,Atlanta (Georgia),Divorced,Tyrone George,1980-08-03
 224-54-1101,(09)-5050-5019,Mesa (Arizona),Married,Tammy Mathews,1989-05-02
-138-18-1359,(05)-6812-3563,Winston–Salem (North Carolina),Married,Dwight Painter,1977-03-16
+138-18-1359,(05)-6812-3563,Winstonâ€“Salem (North Carolina),Married,Dwight Painter,1977-03-16
 301-85-1137,(04)-5502-7208,Cleveland (Ohio),Single,Marlana Tom,1975-05-16
 408-54-1492,(05)-4286-9114,Stockton (California),Common-Law,Wanetta Rhodes,1971-09-19
 381-18-1758,(08)-5502-9130,Irving (Texas),Married,Andy Ellis,1972-06-19
@@ -9574,7 +9574,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 279-34-1605,(09)-3858-4394,Sacramento (California),Divorced,Tomas Dart,1982-08-11
 144-85-1483,(09)-5179-4176,St. Louis (Missouri),Single,Sunny Bostic,1982-09-27
 339-83-1891,(09)-9333-3262,Honolulu (Hawaii),Divorced,Mitsue Hidalgo,1973-01-20
-429-99-1519,(09)-6975-1179,Winston–Salem (North Carolina),Married,Marcia Saxon,1988-08-30
+429-99-1519,(09)-6975-1179,Winstonâ€“Salem (North Carolina),Married,Marcia Saxon,1988-08-30
 408-30-1559,(03)-6486-5326,Detroit (Michigan),Divorced,Curtis Cupps,1983-06-30
 279-18-1392,(08)-6473-5075,Fort Wayne (Indiana),Divorced,Noemi Nguyen,1990-07-18
 238-32-1529,(03)-4370-7370,San Francisco (California),Married,Margherita Felts,1985-01-14
@@ -9715,7 +9715,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 238-74-1739,(04)-1199-5970,Lubbock (Texas),Single,Hope Kimsey,1975-11-07
 301-32-1825,(09)-2298-5713,Los Angeles (California),Married,Abraham Brighton,1986-09-04
 279-18-1771,(05)-3468-3345,El Paso (Texas),Single,Felipe Plascencia,1978-08-10
-425-93-1968,(05)-7973-6629,Winston–Salem (North Carolina),Divorced,Kelly Warren,1988-02-21
+425-93-1968,(05)-7973-6629,Winstonâ€“Salem (North Carolina),Divorced,Kelly Warren,1988-02-21
 320-18-1994,(07)-5902-5119,Chula Vista (California),Divorced,Polly Pimentel,1990-07-03
 238-55-1692,(05)-5125-5970,Riverside (California),Divorced,Gregory Hester,1978-02-18
 339-55-1501,(09)-4858-8640,Cleveland (Ohio),Married,Delfina Tom,1975-05-05
@@ -9766,7 +9766,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 279-34-1392,(04)-5062-2465,Glendale (Arizona),Single,Eddy Elmer,1981-05-22
 368-93-1563,(08)-8685-9910,Mesa (Arizona),Single,Herbert Hayton,1970-05-27
 339-83-1288,(04)-9292-1478,San Bernardino (California),Divorced,Shaina Schwager,1985-06-11
-144-55-1994,(05)-6812-5036,Winston–Salem (North Carolina),Married,Kristine Honeycutt,1982-11-28
+144-55-1994,(05)-6812-5036,Winstonâ€“Salem (North Carolina),Married,Kristine Honeycutt,1982-11-28
 279-30-1809,(09)-3433-5119,Seattle (Washington),Single,Dewayne Woodring,1982-12-07
 408-18-1283,(08)-5794-7402,Oklahoma City (Oklahoma),Divorced,Kevin Vanhorn,1977-03-04
 391-25-1514,(05)-4370-8507,Hialeah (Florida),Single,Shelia Tucker,1973-02-18
@@ -9821,7 +9821,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 429-25-1101,(09)-8288-4606,Albuquerque (New Mexico),Divorced,Paul Romaine,1981-01-06
 381-30-1512,(08)-8685-9511,Scottsdale (Arizona),Divorced,Reggie Orellana,1974-05-20
 144-81-1312,(04)-9719-4508,Chicago (Illinois),Common-Law,Clayton Richerson,1973-06-10
-381-46-1549,(08)-3468-2714,Winston–Salem (North Carolina),Divorced,Greg Cline,1973-02-27
+381-46-1549,(08)-3468-2714,Winstonâ€“Salem (North Carolina),Divorced,Greg Cline,1973-02-27
 166-51-1828,(08)-9292-5952,Austin (Texas),Single,Ashley Tapscott,1989-07-12
 408-32-1822,(07)-7504-4870,Chesapeake (Virginia),Common-Law,Gabriella Gaskins,1974-05-06
 429-83-1727,(08)-4286-4444,New Orleans (Louisiana),Common-Law,Henriette Mcintosh,1987-04-11
@@ -10045,7 +10045,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 177-85-1849,(07)-7905-1114,Fort Wayne (Indiana),Single,Joanna Gass,1988-06-16
 238-55-1289,(05)-3339-5388,Irving (Texas),Common-Law,Shaina Clyde,1980-12-13
 238-82-1491,(04)-6486-9470,Laredo (Texas),Married,Refugio Hennessy,1978-07-02
-144-93-1202,(03)-5146-1079,Winston–Salem (North Carolina),Divorced,Travis Powell,1990-06-29
+144-93-1202,(03)-5146-1079,Winstonâ€“Salem (North Carolina),Divorced,Travis Powell,1990-06-29
 224-32-1156,(08)-9292-7659,Gilbert (Arizona),Common-Law,Brenna Applegate,1984-01-27
 429-31-1950,(04)-4370-8567,Lincoln (Nebraska),Divorced,Sue Damore,1974-12-19
 408-74-1501,(04)-4286-8942,Hialeah (Florida),Married,Alexandria Brennan,1972-06-04
@@ -10153,7 +10153,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 301-93-1263,(07)-2298-6629,San Francisco (California),Divorced,Geraldine Bartlett,1986-09-26
 116-30-1442,(09)-5502-8568,Fort Wayne (Indiana),Single,Gisela Guiterrez,1982-07-07
 177-32-1840,(05)-5794-5560,Anaheim (California),Common-Law,Jimmy Markowski,1981-07-26
-339-54-1413,(09)-6191-3325,Winston–Salem (North Carolina),Common-Law,Lulu Micheals,1976-02-11
+339-54-1413,(09)-6191-3325,Winstonâ€“Salem (North Carolina),Common-Law,Lulu Micheals,1976-02-11
 116-32-1642,(03)-2905-2115,Boise (Idaho),Divorced,Shana Armijo,1984-08-24
 279-34-1043,(03)-5050-5970,San Diego (California),Common-Law,Vannesa Theis,1969-05-30
 339-54-1615,(05)-8685-5801,St. Petersburg (Florida),Common-Law,Kenny Mcinnis,1986-02-04
@@ -10168,7 +10168,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 238-85-1285,(03)-3320-1247,Aurora (Colorado),Divorced,Kellie Renner,1983-04-18
 408-60-1312,(07)-4370-4208,Chula Vista (California),Divorced,Danilo Forbes,1969-07-15
 323-44-1629,(07)-7508-5952,Miami (Florida),Married,Delbert Hendrix,1975-08-04
-339-44-1331,(03)-5794-8568,Winston–Salem (North Carolina),Married,Rhoda Greer,1988-12-17
+339-44-1331,(03)-5794-8568,Winstonâ€“Salem (North Carolina),Married,Rhoda Greer,1988-12-17
 301-25-1269,(03)-3339-3278,Lincoln (Nebraska),Divorced,Eloisa Blaine,1977-02-05
 279-83-1758,(05)-5179-8193,Omaha (Nebraska),Common-Law,Rosalyn Shuman,1988-06-16
 166-31-1703,(04)-9292-6502,San Jose (California),Divorced,Dorine Burk,1971-04-05
@@ -10186,7 +10186,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 429-54-1067,(08)-8288-7208,Boise (Idaho),Married,Walker Holbert,1971-10-24
 381-18-1423,(05)-6473-4508,Tucson (Arizona),Single,Nieves Kennett,1987-09-27
 391-82-1307,(04)-5125-3038,Riverside (California),Divorced,Usha Betty,1971-10-31
-138-23-1288,(04)-5062-5241,Winston–Salem (North Carolina),Single,Vern Victor,1975-06-22
+138-23-1288,(04)-5062-5241,Winstonâ€“Salem (North Carolina),Single,Vern Victor,1975-06-22
 116-46-1615,(05)-5854-5202,Mesa (Arizona),Divorced,Margaret Ferber,1975-04-07
 391-83-1074,(05)-6865-8548,St. Louis (Missouri),Divorced,Patrice Sherlock,1985-12-11
 301-18-1401,(05)-9333-6898,Hialeah (Florida),Married,Gabriela Jeanpierre,1982-07-16
@@ -10198,7 +10198,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 368-25-1680,(05)-9235-8193,San Bernardino (California),Married,Stuart Weitz,1973-09-19
 323-55-1583,(05)-6865-9130,Memphis (Tennessee),Common-Law,Vanessa Lossett,1981-01-20
 144-30-1193,(07)-1199-5075,Jacksonville (Florida),Married,Jessica Rocha,1989-01-30
-177-82-1442,(04)-6191-2115,Winston–Salem (North Carolina),Divorced,Lyn Carothers,1987-09-12
+177-82-1442,(04)-6191-2115,Winstonâ€“Salem (North Carolina),Divorced,Lyn Carothers,1987-09-12
 391-82-1054,(09)-8288-8568,Kansas City (Missouri),Common-Law,Kristie Donnelly,1989-06-17
 216-74-1985,(07)-3949-3197,Wichita (Kansas),Common-Law,Jena Hutchins,1976-10-04
 177-25-1882,(03)-5854-8548,Scottsdale (Arizona),Common-Law,Andera Cooper,1971-04-28
@@ -10208,7 +10208,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 144-83-1615,(09)-2926-7527,Madison (Wisconsin),Single,Tyrone Hundt,1970-09-17
 301-30-1331,(05)-9719-4606,St. Petersburg (Florida),Single,Anthony Jorgensen,1980-06-07
 138-55-1019,(03)-6745-1433,Buffalo (New York),Common-Law,Debra Vincent,1988-06-12
-279-74-1307,(03)-2926-5952,Winston–Salem (North Carolina),Common-Law,Lakia Tilghman,1978-02-26
+279-74-1307,(03)-2926-5952,Winstonâ€“Salem (North Carolina),Common-Law,Lakia Tilghman,1978-02-26
 177-46-1688,(03)-2905-8568,Raleigh (North Carolina),Divorced,Andy Messina,1982-01-26
 391-54-1093,(05)-5125-1452,Norfolk (Virginia),Divorced,Brandi Randazzo,1970-02-10
 216-34-1912,(09)-5002-6922,St. Petersburg (Florida),Married,Megan Meyers,1984-11-23
@@ -10292,10 +10292,10 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 144-18-1374,(08)-5330-5388,Saint Paul (Minnesota),Married,Sara Toney,1988-07-17
 279-93-1137,(08)-2298-5867,Honolulu (Hawaii),Divorced,Antonio Bainbridge,1989-02-07
 177-32-1140,(09)-1199-9187,Portland (Oregon),Divorced,Blair Claar,1990-06-29
-224-83-1912,(05)-9292-1478,Winston–Salem (North Carolina),Common-Law,Guadalupe Manseau,1977-09-19
+224-83-1912,(05)-9292-1478,Winstonâ€“Salem (North Carolina),Common-Law,Guadalupe Manseau,1977-09-19
 144-74-1108,(03)-8685-7659,Omaha (Nebraska),Divorced,Ruben Jack,1990-03-09
 116-54-1417,(04)-3468-7434,Aurora (Colorado),Divorced,Nichole Sellers,1990-09-16
-408-74-1158,(07)-7703-8507,Winston–Salem (North Carolina),Married,Mercedes Bologna,1969-08-01
+408-74-1158,(07)-7703-8507,Winstonâ€“Salem (North Carolina),Married,Mercedes Bologna,1969-08-01
 368-55-1692,(03)-3320-2315,Greensboro (North Carolina),Divorced,Livia Setzer,1980-01-18
 216-34-1383,(09)-5580-8968,Aurora (Colorado),Single,Jacquelynn Bissell,1988-08-20
 216-31-1491,(03)-6191-4208,Laredo (Texas),Divorced,Dorothy Hafford,1978-01-10
@@ -10306,7 +10306,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 339-54-1479,(08)-9719-1114,St. Louis (Missouri),Single,Jared Barr,1983-08-29
 425-51-1507,(09)-4370-1114,Tampa (Florida),Single,Brett Werner,1970-05-13
 323-23-1858,(07)-5902-4634,Baltimore (Maryland),Married,Esperanza Hodo,1983-02-18
-381-60-1020,(08)-9854-7456,Winston–Salem (North Carolina),Divorced,Kristen Goodwin,1979-09-06
+381-60-1020,(08)-9854-7456,Winstonâ€“Salem (North Carolina),Divorced,Kristen Goodwin,1979-09-06
 339-32-1227,(09)-6486-7414,Detroit (Michigan),Single,Suzie Cullinan,1975-09-06
 301-60-1315,(07)-5146-6781,Jacksonville (Florida),Single,Karima Pulley,1975-05-16
 301-51-1483,(05)-9235-4339,Norfolk (Virginia),Married,Rosaria Cadiz,1973-07-19
@@ -10336,7 +10336,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 391-18-1374,(07)-8435-4206,Laredo (Texas),Common-Law,Becky Perrigo,1984-09-20
 238-54-1924,(03)-4286-2115,Memphis (Tennessee),Divorced,Rolando Edmunds,1989-12-22
 368-46-1083,(09)-8288-4394,Baton Rouge (Louisiana),Divorced,Paulette Defoor,1969-05-14
-138-99-1020,(09)-1199-2611,Winston–Salem (North Carolina),Single,Claire Haire,1976-06-20
+138-99-1020,(09)-1199-2611,Winstonâ€“Salem (North Carolina),Single,Claire Haire,1976-06-20
 177-32-1237,(05)-8288-3997,St. Louis (Missouri),Single,Jayne Shull,1976-05-20
 138-18-2000,(09)-6975-8507,Portland (Oregon),Divorced,Farrah Coyle,1976-12-19
 224-46-1291,(09)-3468-9511,Albuquerque (New Mexico),Married,Kimberly Burnham,1985-04-13
@@ -10386,7 +10386,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 116-32-1240,(03)-2298-2725,Fort Worth (Texas),Common-Law,Eugene Stark,1972-10-27
 391-25-1828,(08)-8435-7434,San Antonio (Texas),Divorced,Tonita Aron,1989-10-29
 408-99-1757,(08)-6865-5388,Fort Worth (Texas),Married,Rufus Menges,1979-08-13
-425-18-1378,(09)-9854-3997,Winston–Salem (North Carolina),Common-Law,Mirtha Ennis,1973-12-14
+425-18-1378,(09)-9854-3997,Winstonâ€“Salem (North Carolina),Common-Law,Mirtha Ennis,1973-12-14
 144-55-1413,(05)-5002-8548,Mesa (Arizona),Single,Dexter Felder,1976-09-30
 339-99-1107,(04)-6191-6480,Garland (Texas),Married,Dave Aleman,1979-09-07
 391-44-1747,(04)-2298-3262,St. Petersburg (Florida),Married,Lovie Chavez,1980-05-29
@@ -10408,7 +10408,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 138-18-1315,(07)-7703-5952,Chandler (Arizona),Divorced,Kim Burbach,1969-06-28
 177-51-1680,(08)-2926-8968,Milwaukee (Wisconsin),Single,Margaret Nilsen,1973-03-19
 166-46-1954,(04)-5002-1433,Gilbert (Arizona),Divorced,Sylvia Lohr,1989-04-16
-116-32-1020,(08)-6473-8942,Winston–Salem (North Carolina),Single,Chester Magallanes,1971-06-02
+116-32-1020,(08)-6473-8942,Winstonâ€“Salem (North Carolina),Single,Chester Magallanes,1971-06-02
 238-81-1739,(04)-5794-3262,Gilbert (Arizona),Common-Law,Bert Fuller,1977-10-20
 238-34-1676,(08)-4370-8405,Boise (Idaho),Married,Mable Mathes,1990-01-15
 323-18-1559,(07)-5502-5686,Reno (Nevada),Single,Haley Brundidge,1988-04-29
@@ -10613,7 +10613,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 301-51-1811,(07)-6812-8193,Detroit (Michigan),Common-Law,Lillian Burden,1980-11-15
 381-46-1235,(05)-5592-9523,Washington (District of Columbia),Single,Justine Senters,1990-11-01
 301-31-1666,(09)-5854-7370,Atlanta (Georgia),Common-Law,Luz Holley,1988-12-05
-408-54-1958,(07)-6745-5388,Winston–Salem (North Carolina),Single,Jewell Cullen,1984-09-26
+408-54-1958,(07)-6745-5388,Winstonâ€“Salem (North Carolina),Single,Jewell Cullen,1984-09-26
 429-18-1083,(03)-3858-5075,Lubbock (Texas),Married,Anneliese Durbin,1973-02-01
 339-18-1914,(04)-6191-7659,San Antonio (Texas),Single,Patrice Justice,1985-04-08
 166-44-1559,(04)-9365-9910,Louisville (Kentucky),Married,Kasie Miesner,1977-05-12
@@ -10676,7 +10676,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 166-32-1283,(09)-3460-4606,Omaha (Nebraska),Married,Sherry Quillen,1976-09-03
 116-30-1285,(08)-3460-9470,Mesa (Arizona),Divorced,Janene Woodman,1985-10-01
 320-34-1757,(05)-4858-5202,Irving (Texas),Common-Law,Delphine Rutt,1979-08-12
-287-32-1217,(05)-6812-3325,Winston–Salem (North Carolina),Divorced,Stan Parenteau,1988-08-18
+287-32-1217,(05)-6812-3325,Winstonâ€“Salem (North Carolina),Divorced,Stan Parenteau,1988-08-18
 301-32-1393,(03)-5179-5388,San Bernardino (California),Common-Law,Chrissy Saleem,1980-12-17
 238-23-1664,(05)-7508-5075,Fremont (California),Divorced,Danilo Perrigo,1976-04-08
 287-23-1805,(04)-6745-4176,Pittsburgh (Pennsylvania),Common-Law,Kaley Lefebvre,1975-04-02
@@ -10804,7 +10804,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 429-54-1216,(03)-2926-1764,Richmond (Virginia),Divorced,Eric Beyer,1982-05-16
 381-34-1492,(03)-9854-6681,San Bernardino (California),Divorced,James Howe,1979-02-12
 216-18-1006,(03)-4858-4606,Chesapeake (Virginia),Common-Law,Kanesha Dugan,1971-11-10
-238-55-1053,(03)-1199-6629,Winston–Salem (North Carolina),Married,Garnett Lear,1972-12-19
+238-55-1053,(03)-1199-6629,Winstonâ€“Salem (North Carolina),Married,Garnett Lear,1972-12-19
 238-99-1825,(08)-7973-8568,Denver (Colorado),Single,Clyde Letcher,1989-05-29
 429-18-1383,(03)-5580-4289,Columbus (Ohio),Married,Lilly Dillon,1973-06-17
 391-54-1603,(09)-3949-3563,St. Petersburg (Florida),Married,Jeremiah Dent,1981-03-07
@@ -10914,7 +10914,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 287-25-1262,(09)-3468-4983,Tucson (Arizona),Common-Law,Tomasa Dunigan,1976-07-23
 144-55-1995,(07)-2926-5036,Buffalo (New York),Common-Law,Merlin Silva,1990-01-03
 216-18-1543,(09)-2298-3038,Chesapeake (Virginia),Common-Law,Clint Mcgrath,1988-05-23
-391-31-1753,(07)-6865-4208,Winston–Salem (North Carolina),Married,Mariano Hungerford,1981-10-26
+391-31-1753,(07)-6865-4208,Winstonâ€“Salem (North Carolina),Married,Mariano Hungerford,1981-10-26
 408-74-1227,(08)-5902-3278,Cleveland (Ohio),Divorced,Mammie Gans,1971-10-08
 339-81-1226,(09)-5580-5965,Honolulu (Hawaii),Married,Tammi Solomon,1990-10-28
 368-44-1341,(05)-7973-2465,Arlington (Texas),Married,Bernice Kimbrell,1987-01-28
@@ -11076,7 +11076,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 368-74-1676,(08)-7905-5388,New York (New York),Divorced,Enriqueta Hulsey,1980-05-22
 368-99-1435,(07)-5002-6480,Baltimore (Maryland),Divorced,Wanda Browne,1981-08-24
 301-46-1108,(09)-5902-3325,Jersey City (New Jersey),Common-Law,Francesca Haddock,1971-02-05
-425-32-1489,(05)-7973-4870,Winston–Salem (North Carolina),Divorced,Jeff Pederson,1971-08-17
+425-32-1489,(05)-7973-4870,Winstonâ€“Salem (North Carolina),Divorced,Jeff Pederson,1971-08-17
 224-46-1193,(08)-2926-4444,Dallas (Texas),Single,Betsy Lasher,1990-03-22
 166-25-1664,(09)-4286-8405,Columbus (Ohio),Common-Law,Yadira Acosta,1987-01-03
 177-55-1828,(09)-5050-2714,Los Angeles (California),Married,Noe Butters,1984-10-20
@@ -11098,7 +11098,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 216-60-1399,(08)-9235-3554,Irving (Texas),Divorced,Ruby Boyter,1983-06-16
 177-55-1000,(03)-6191-9511,Philadelphia[8] (Pennsylvania),Common-Law,Bruce Mcmillian,1982-12-14
 320-25-1227,(03)-5179-5970,Wichita (Kansas),Single,Clifford Picou,1985-02-01
-279-74-1442,(05)-5580-3262,Winston–Salem (North Carolina),Married,Danilo Dancer,1988-11-05
+279-74-1442,(05)-5580-3262,Winstonâ€“Salem (North Carolina),Married,Danilo Dancer,1988-11-05
 287-51-1240,(03)-9365-5036,Scottsdale (Arizona),Divorced,Jennifer Delfino,1974-09-20
 339-54-1000,(09)-8685-4983,Durham (North Carolina),Married,Tabatha Womack,1970-06-24
 391-44-1521,(05)-3460-8193,Boston (Massachusetts),Divorced,Amos Durham,1979-01-19
@@ -11369,7 +11369,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 339-81-1199,(09)-3320-8968,Detroit (Michigan),Single,Barry Dart,1980-05-09
 138-44-1922,(05)-9854-7434,Baltimore (Maryland),Single,Lillie Bagwell,1973-11-06
 391-44-1883,(07)-5592-8055,Louisville (Kentucky),Divorced,Ken Osorio,1973-02-19
-429-82-1067,(04)-5580-8968,Winston–Salem (North Carolina),Divorced,Bill Cleghorn,1970-10-08
+429-82-1067,(04)-5580-8968,Winstonâ€“Salem (North Carolina),Divorced,Bill Cleghorn,1970-10-08
 339-83-1811,(03)-1350-1179,North Las Vegas (Nevada),Divorced,Barry Locke,1981-06-13
 144-60-1048,(03)-9999-7527,Aurora (Colorado),Single,Claudio Hunter,1977-04-21
 323-30-1496,(09)-1199-5801,Indianapolis[11] (Indiana),Divorced,Robt Clifton,1971-04-11
@@ -11378,7 +11378,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 339-93-1000,(05)-9235-5560,Toledo (Ohio),Married,Jacquelynn Mcdade,1984-06-08
 368-81-1985,(07)-5502-3038,Newark (New Jersey),Single,Graham Carrero,1990-07-24
 287-32-1345,(09)-5592-1079,Houston (Texas),Divorced,Tom Eversole,1969-03-12
-177-31-1731,(07)-8685-9470,Winston–Salem (North Carolina),Divorced,Bettie Oconner,1984-01-05
+177-31-1731,(07)-8685-9470,Winstonâ€“Salem (North Carolina),Divorced,Bettie Oconner,1984-01-05
 238-81-1423,(08)-9719-1452,Toledo (Ohio),Single,Tanya Dorgan,1969-04-13
 323-60-1883,(05)-6745-2714,Houston (Texas),Common-Law,Vanessa Sale,1979-02-27
 391-25-1849,(07)-5794-7352,Mesa (Arizona),Divorced,Faye Ricketts,1975-10-21
@@ -11464,13 +11464,13 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 279-32-1529,(07)-6745-4508,Baltimore (Maryland),Divorced,Titus Dane,1989-10-19
 224-46-1235,(04)-5002-6629,Bakersfield (California),Common-Law,Sherri Carreon,1985-03-29
 216-81-1772,(04)-1350-5202,Chula Vista (California),Married,Ester Staton,1987-04-22
-339-82-1424,(03)-5592-7456,Winston–Salem (North Carolina),Married,Cyndi Thames,1978-02-18
+339-82-1424,(03)-5592-7456,Winstonâ€“Salem (North Carolina),Married,Cyndi Thames,1978-02-18
 323-18-1226,(03)-3339-9130,Anchorage (Alaska),Married,Rolf Dietrich,1970-07-06
 116-83-1778,(04)-7973-4206,Tulsa (Oklahoma),Married,Darrin Mckain,1979-12-27
 408-82-1435,(05)-4286-9910,Durham (North Carolina),Single,Elizabeth Trott,1981-05-01
 339-93-1655,(08)-5062-7402,Norfolk (Virginia),Married,Margret Layden,1982-12-05
 391-74-1324,(08)-5902-6898,Seattle (Washington),Divorced,Dave Pierce,1981-08-17
-381-85-1344,(05)-6486-4983,Winston–Salem (North Carolina),Single,Marcus Spring,1990-10-16
+381-85-1344,(05)-6486-4983,Winstonâ€“Salem (North Carolina),Single,Marcus Spring,1990-10-16
 368-99-1006,(07)-6486-8968,New York (New York),Divorced,Caridad Knoll,1990-07-25
 238-60-1778,(03)-5854-5965,Gilbert (Arizona),Common-Law,Romeo Gaston,1985-01-07
 368-82-1084,(07)-5179-8223,Mesa (Arizona),Single,Theodore Neff,1987-12-16
@@ -11698,7 +11698,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 323-46-1828,(04)-4286-2611,Chesapeake (Virginia),Common-Law,Imogene Atlas,1977-02-04
 238-25-1985,(04)-6812-9661,Las Vegas (Nevada),Married,Eldon Lamb,1986-03-17
 144-23-1327,(05)-5580-9187,Portland (Oregon),Divorced,Rodolfo Miranda,1990-04-05
-391-30-1012,(08)-5125-2714,Winston–Salem (North Carolina),Single,Rosario Perales,1988-05-15
+391-30-1012,(08)-5125-2714,Winstonâ€“Salem (North Carolina),Single,Rosario Perales,1988-05-15
 116-51-1057,(09)-9854-3278,Nashville (Tennessee),Single,Carmelo Mcclain,1990-08-30
 425-44-1463,(05)-6865-4634,Dallas (Texas),Married,Jack Dart,1969-02-22
 279-74-1778,(04)-5902-6922,Fort Worth (Texas),Single,Lyn Lochner,1969-02-12
@@ -11790,7 +11790,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 339-44-1813,(04)-9365-1764,San Antonio (Texas),Divorced,Jaunita Wheat,1973-03-23
 116-85-1943,(04)-9292-4208,Stockton (California),Common-Law,Milissa Dedrick,1989-02-11
 320-82-1339,(08)-6191-9910,Denver (Colorado),Married,Zack Long,1969-11-21
-425-55-1813,(09)-5179-5970,Winston–Salem (North Carolina),Divorced,Marsha Paul,1977-02-22
+425-55-1813,(09)-5179-5970,Winstonâ€“Salem (North Carolina),Divorced,Marsha Paul,1977-02-22
 177-46-1286,(05)-6812-7286,Glendale (Arizona),Single,Ryann Cropper,1973-10-21
 368-99-1941,(07)-5146-5202,Gilbert (Arizona),Common-Law,Debbra Allen,1972-01-26
 177-32-1612,(05)-9333-3262,Sacramento (California),Single,Kim Stallings,1981-06-28
@@ -12018,7 +12018,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 224-55-1108,(03)-3460-7352,Portland (Oregon),Divorced,Jessica Stjohn,1975-03-22
 238-44-1283,(07)-1199-6500,Lincoln (Nebraska),Single,Noelia Hungerford,1983-03-26
 144-18-1851,(08)-8685-8640,Las Vegas (Nevada),Single,Connie Christensen,1974-07-16
-216-55-1101,(08)-6486-7191,Winston–Salem (North Carolina),Common-Law,Greg Major,1977-01-11
+216-55-1101,(08)-6486-7191,Winstonâ€“Salem (North Carolina),Common-Law,Greg Major,1977-01-11
 368-60-1772,(09)-2905-6781,Buffalo (New York),Single,Nicki Tolliver,1973-10-22
 116-30-1011,(03)-7504-1452,San Jose (California),Common-Law,Rosalie Mcgill,1981-05-03
 279-60-1635,(08)-5179-5036,Baton Rouge (Louisiana),Single,Eugenia Tyler,1985-10-13
@@ -12115,7 +12115,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 224-30-1907,(04)-7504-9661,Virginia Beach (Virginia),Common-Law,Laurene Hicks,1982-01-11
 391-18-1545,(09)-5502-6681,Las Vegas (Nevada),Divorced,Benton Niven,1974-09-29
 116-46-1501,(05)-4286-1179,Tucson (Arizona),Single,Katrina Shoemake,1987-07-27
-368-85-1981,(05)-7504-5326,Winston–Salem (North Carolina),Common-Law,Migdalia Ramsey,1978-11-28
+368-85-1981,(05)-7504-5326,Winstonâ€“Salem (North Carolina),Common-Law,Migdalia Ramsey,1978-11-28
 339-25-1315,(03)-5854-1247,Washington (District of Columbia),Single,Bernetta Cossey,1979-06-26
 320-74-1285,(03)-5794-5075,Richmond (Virginia),Single,Kenny Haas,1972-11-16
 216-30-1067,(09)-6745-8568,Atlanta (Georgia),Divorced,Mohamed Amato,1973-02-18
@@ -12239,10 +12239,10 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 138-46-1849,(08)-5002-7527,Long Beach (California),Common-Law,Jermaine Ammons,1979-01-13
 116-51-1643,(08)-7508-7414,Aurora (Colorado),Common-Law,Verna Atlas,1981-01-29
 425-74-1463,(07)-6745-4870,Fresno (California),Married,Elvia Mart,1983-05-07
-381-93-1957,(08)-5050-4870,Winston–Salem (North Carolina),Single,Winnie Woodberry,1981-05-03
+381-93-1957,(08)-5050-4870,Winstonâ€“Salem (North Carolina),Single,Winnie Woodberry,1981-05-03
 320-60-1011,(05)-3433-8432,New Orleans (Louisiana),Common-Law,Lawerence Gutierrez,1989-12-24
 381-54-1822,(09)-9235-8568,Phoenix (Arizona),Divorced,Alma Shealey,1970-03-18
-391-74-1529,(09)-8435-2611,Winston–Salem (North Carolina),Single,Sasha Shippee,1976-05-26
+391-74-1529,(09)-8435-2611,Winstonâ€“Salem (North Carolina),Single,Sasha Shippee,1976-05-26
 238-82-1753,(08)-9365-1247,Santa Ana (California),Married,Tammy Jim,1971-04-28
 238-31-1341,(07)-6745-8223,Fort Worth (Texas),Married,Roderick Witter,1970-07-24
 323-46-1399,(08)-2298-7208,Las Vegas (Nevada),Common-Law,Jon Feldt,1975-02-27
@@ -12355,7 +12355,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 301-83-1666,(07)-5002-4508,Arlington (Texas),Single,Pearl Blanco,1973-07-15
 138-25-1772,(05)-6975-7370,Chicago (Illinois),Single,Sidney Keenan,1975-02-28
 320-54-1559,(08)-3468-7191,New Orleans (Louisiana),Common-Law,Otha Clare,1978-01-09
-279-46-1950,(07)-6812-8640,Winston–Salem (North Carolina),Common-Law,Deanna Stanley,1970-05-15
+279-46-1950,(07)-6812-8640,Winstonâ€“Salem (North Carolina),Common-Law,Deanna Stanley,1970-05-15
 301-31-1768,(07)-9719-2465,Cincinnati (Ohio),Divorced,Vera Lewellyn,1986-07-20
 339-23-1101,(04)-5125-3278,Houston (Texas),Single,Mitchel Giese,1972-08-14
 138-51-1950,(08)-5146-4208,Minneapolis (Minnesota),Married,Brendan Handy,1988-12-23
@@ -12449,7 +12449,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 368-30-1392,(05)-5794-1247,San Antonio (Texas),Single,Elias Hicks,1980-05-08
 238-54-1012,(09)-5062-3278,Orlando (Florida),Divorced,Santos Vitale,1969-04-10
 138-32-1840,(09)-9999-1079,Durham (North Carolina),Married,Barrett Noack,1986-08-13
-323-46-1549,(05)-3949-6922,Winston–Salem (North Carolina),Common-Law,Abdul Quan,1970-02-03
+323-46-1549,(05)-3949-6922,Winstonâ€“Salem (North Carolina),Common-Law,Abdul Quan,1970-02-03
 339-46-1158,(07)-2298-5326,Miami (Florida),Married,Herman Krok,1972-10-18
 425-34-1269,(03)-5902-7456,Columbus (Ohio),Common-Law,Dayle Wold,1984-03-28
 408-31-1837,(03)-9854-5970,San Diego (California),Common-Law,Effie Eller,1980-01-26
@@ -12627,7 +12627,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 301-55-1417,(03)-9999-7818,Scottsdale (Arizona),Single,Irene Sherer,1980-07-02
 381-31-1193,(03)-7973-4606,Aurora (Colorado),Married,Robt Mcgee,1972-12-06
 116-51-1530,(09)-1199-8568,Memphis (Tennessee),Married,Randi Roberts,1970-10-10
-166-32-1957,(04)-5592-5713,Winston–Salem (North Carolina),Common-Law,Erwin Beal,1974-02-02
+166-32-1957,(04)-5592-5713,Winstonâ€“Salem (North Carolina),Common-Law,Erwin Beal,1974-02-02
 381-18-1676,(09)-5125-7352,Plano (Texas),Divorced,Trevor Carver,1990-05-03
 429-55-1854,(08)-4858-8432,Tampa (Florida),Single,Joaquin Oconner,1988-08-08
 238-31-1723,(03)-5330-4208,Seattle (Washington),Single,Jena Felder,1985-11-27
@@ -12672,7 +12672,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 381-60-1193,(03)-5794-6922,Oakland (California),Common-Law,Kay Neilson,1980-10-11
 339-54-1083,(09)-6473-4394,Corpus Christi (Texas),Common-Law,Milissa Carson,1982-03-10
 287-60-1291,(05)-1199-9470,Kansas City (Missouri),Divorced,Willis Woodman,1978-08-09
-279-34-1489,(09)-7973-4206,Winston–Salem (North Carolina),Married,Maxie Weymouth,1990-02-17
+279-34-1489,(09)-7973-4206,Winstonâ€“Salem (North Carolina),Married,Maxie Weymouth,1990-02-17
 425-51-1202,(08)-4370-7208,Madison (Wisconsin),Divorced,Lola Maus,1988-06-01
 323-25-1107,(03)-8685-1633,Tucson (Arizona),Common-Law,Toby Leary,1977-03-20
 287-34-1479,(05)-5502-9910,Nashville (Tennessee),Single,Harriet Lyles,1982-11-26
@@ -12703,7 +12703,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 425-34-1394,(04)-5902-3345,Newark (New Jersey),Single,Kurt Merkle,1974-03-15
 138-32-1332,(09)-4370-1452,Laredo (Texas),Common-Law,Christal Mulhern,1985-11-06
 301-81-1635,(09)-5794-4208,Las Vegas (Nevada),Single,Dinah Eller,1982-12-18
-408-83-1635,(09)-2298-6766,Winston–Salem (North Carolina),Divorced,Eunice Krantz,1975-04-27
+408-83-1635,(09)-2298-6766,Winstonâ€“Salem (North Carolina),Divorced,Eunice Krantz,1975-04-27
 320-99-1061,(05)-3468-3563,San Jose (California),Married,Elwood Becker,1989-05-15
 339-46-1545,(03)-6812-3262,Orlando (Florida),Divorced,Grace Mcfarren,1970-12-31
 224-44-1723,(07)-3949-4508,Baton Rouge (Louisiana),Single,Shanon Funes,1989-10-10
@@ -12737,7 +12737,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 144-46-1521,(03)-5146-3278,Baton Rouge (Louisiana),Single,Ramon Collier,1982-03-16
 323-93-1543,(05)-3433-4606,Baton Rouge (Louisiana),Common-Law,Elizebeth Hulett,1984-04-17
 320-82-1226,(05)-5502-9114,Saint Paul (Minnesota),Common-Law,Joaquin Mayo,1982-03-03
-116-55-1286,(03)-5050-6480,Winston–Salem (North Carolina),Single,Adela Gustin,1982-07-09
+116-55-1286,(03)-5050-6480,Winstonâ€“Salem (North Carolina),Single,Adela Gustin,1982-07-09
 429-74-1137,(09)-9365-1079,Denver (Colorado),Married,Myron Dison,1972-08-01
 429-55-1148,(04)-5062-4394,Boston (Massachusetts),Common-Law,Blake Sheffer,1972-09-30
 216-55-1156,(04)-8288-3278,Fremont (California),Married,Santiago Crosby,1973-06-16
@@ -12955,7 +12955,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 323-25-1084,(05)-7703-5970,Minneapolis (Minnesota),Single,Jack Miera,1982-04-20
 381-30-1605,(07)-6975-4870,Scottsdale (Arizona),Married,Sherman Falcon,1975-07-16
 391-54-1061,(03)-9365-8568,Oakland (California),Married,Serena Frazier,1972-11-02
-429-30-1313,(03)-2298-5019,Winston–Salem (North Carolina),Married,Garrett Moorer,1986-10-12
+429-30-1313,(03)-2298-5019,Winstonâ€“Salem (North Carolina),Married,Garrett Moorer,1986-10-12
 368-25-1809,(09)-2926-9523,New York (New York),Married,Tressie Leber,1979-07-28
 144-60-1985,(05)-9719-7208,Irvine (California),Single,Deon Gerow,1983-02-26
 216-99-1423,(09)-5125-7286,Sacramento (California),Divorced,Eve Gavin,1976-06-17
@@ -13070,7 +13070,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 339-30-1171,(03)-4286-2735,Stockton (California),Common-Law,Hobert Sledge,1983-05-05
 279-82-1048,(07)-5592-9114,Jersey City (New Jersey),Common-Law,Keneth Sandford,1980-07-01
 238-55-1666,(08)-6191-9114,San Antonio (Texas),Married,Allen Acosta,1976-02-11
-368-34-1858,(08)-5050-1423,Winston–Salem (North Carolina),Common-Law,Randy Lee,1989-11-22
+368-34-1858,(08)-5050-1423,Winstonâ€“Salem (North Carolina),Common-Law,Randy Lee,1989-11-22
 368-34-1307,(09)-1350-5241,Buffalo (New York),Common-Law,Winifred Heinz,1969-08-12
 116-31-1837,(03)-4370-1633,San Francisco (California),Married,Lacie Holcomb,1988-06-25
 116-85-1448,(08)-5330-5801,Fresno (California),Married,Briana Trader,1988-05-07
@@ -13157,14 +13157,14 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 116-82-1067,(05)-7703-6781,Dallas (Texas),Common-Law,Karren Ingram,1988-02-19
 287-18-1602,(08)-3320-3197,Seattle (Washington),Divorced,Ernie Rood,1976-12-05
 301-51-1332,(07)-5330-9114,Indianapolis[11] (Indiana),Single,Shelby Delvalle,1969-04-02
-429-82-1512,(03)-8435-3345,Winston–Salem (North Carolina),Divorced,Phillip Lovett,1970-10-20
+429-82-1512,(03)-8435-3345,Winstonâ€“Salem (North Carolina),Divorced,Phillip Lovett,1970-10-20
 320-82-1849,(09)-5902-5326,Scottsdale (Arizona),Divorced,Alyce Bixby,1982-03-14
 301-82-1813,(05)-9719-7434,Boston (Massachusetts),Common-Law,Rodrigo Haun,1978-03-18
 320-30-1771,(09)-9719-1079,Houston (Texas),Divorced,Mai Petit,1975-10-25
 144-93-1253,(04)-6191-6362,Honolulu (Hawaii),Divorced,Stacee Goldman,1978-06-25
 391-31-1057,(08)-4370-7527,Cincinnati (Ohio),Single,Tammi Huerta,1976-09-04
 138-31-1463,(05)-5580-4634,St. Louis (Missouri),Common-Law,Morris Meyers,1970-04-01
-425-18-1171,(04)-4858-1478,Winston–Salem (North Carolina),Common-Law,James Norwood,1986-10-28
+425-18-1171,(04)-4858-1478,Winstonâ€“Salem (North Carolina),Common-Law,James Norwood,1986-10-28
 279-60-1262,(07)-3460-9511,San Francisco (California),Married,Joann Butera,1986-11-26
 320-32-1994,(07)-7703-5965,Tucson (Arizona),Common-Law,Mei Patten,1980-07-01
 166-32-1199,(08)-3468-8432,Fresno (California),Common-Law,Sallie Goldstein,1986-10-09
@@ -13255,7 +13255,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 177-32-1985,(07)-3433-5019,Louisville (Kentucky),Common-Law,Marisa Lao,1990-08-05
 238-51-2000,(04)-8685-8640,Gilbert (Arizona),Common-Law,Lacey Barroso,1981-06-08
 323-85-1501,(08)-5179-6681,Raleigh (North Carolina),Married,Lakesha Nisbet,1990-05-02
-391-99-1048,(09)-2298-8968,Winston–Salem (North Carolina),Divorced,Lewis Ennis,1976-01-11
+391-99-1048,(09)-2298-8968,Winstonâ€“Salem (North Carolina),Divorced,Lewis Ennis,1976-01-11
 301-81-1289,(08)-5330-7527,Wichita (Kansas),Single,Elvin Schenk,1982-02-03
 144-82-1101,(07)-6191-5019,Fort Worth (Texas),Single,Gale Painter,1975-03-15
 429-60-1514,(09)-5330-3554,Honolulu (Hawaii),Common-Law,Bettie Warden,1976-05-22
@@ -13306,7 +13306,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 381-82-1137,(04)-4858-2115,Chula Vista (California),Single,Brady Pauley,1985-01-24
 138-30-1051,(09)-4858-1179,Cincinnati (Ohio),Married,Candelaria Gulick,1979-10-11
 238-93-1253,(04)-5902-5965,Norfolk (Virginia),Divorced,Della Colby,1984-09-05
-391-31-1148,(05)-5794-9187,Winston–Salem (North Carolina),Divorced,Esther Ketner,1973-01-18
+391-31-1148,(05)-5794-9187,Winstonâ€“Salem (North Carolina),Divorced,Esther Ketner,1973-01-18
 287-93-1856,(08)-7508-6500,Tucson (Arizona),Single,Andrea Duvall,1980-08-05
 368-55-1468,(03)-3320-8507,Phoenix (Arizona),Divorced,Gary Boggs,1986-05-01
 301-31-1291,(05)-6865-7414,Milwaukee (Wisconsin),Common-Law,Georgia Perez,1989-07-17
@@ -13577,12 +13577,12 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 287-32-1530,(08)-5125-9523,Norfolk (Virginia),Common-Law,Elissa Houck,1978-12-22
 408-31-1723,(07)-7973-1423,Chula Vista (California),Single,Jocelyn Boozer,1969-10-06
 177-31-1605,(04)-2905-7887,Virginia Beach (Virginia),Common-Law,Eula Barbosa,1990-11-20
-116-23-1957,(03)-5592-3554,Winston–Salem (North Carolina),Married,Doris Twombly,1990-08-28
+116-23-1957,(03)-5592-3554,Winstonâ€“Salem (North Carolina),Married,Doris Twombly,1990-08-28
 166-55-1479,(05)-6191-8223,Milwaukee (Wisconsin),Divorced,Teresa Pruitt,1988-04-12
-323-99-1237,(03)-9719-1114,Winston–Salem (North Carolina),Common-Law,Merlin Beltran,1990-06-14
+323-99-1237,(03)-9719-1114,Winstonâ€“Salem (North Carolina),Common-Law,Merlin Beltran,1990-06-14
 381-25-1849,(09)-9719-2725,Chicago (Illinois),Married,Gay Baldree,1975-01-28
 279-81-1907,(08)-3949-1079,Milwaukee (Wisconsin),Common-Law,Mayra Kissell,1979-03-28
-320-25-1914,(05)-5902-5019,Winston–Salem (North Carolina),Single,Reynaldo Fernandez,1990-04-20
+320-25-1914,(05)-5902-5019,Winstonâ€“Salem (North Carolina),Single,Reynaldo Fernandez,1990-04-20
 320-83-1038,(08)-5794-1079,Henderson (Nevada),Common-Law,Milissa Malave,1976-06-15
 429-99-1856,(07)-6812-4606,Baton Rouge (Louisiana),Single,Elma Zucker,1977-09-22
 224-51-1703,(09)-6745-4634,Lexington (Kentucky),Married,Anne Knott,1970-09-20
@@ -14094,7 +14094,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 287-31-1393,(03)-2926-5965,North Las Vegas (Nevada),Divorced,Rosemarie Jewett,1988-10-20
 238-32-1994,(08)-3468-5388,Buffalo (New York),Single,Natalia Claudio,1979-09-09
 116-31-1359,(08)-6745-2115,North Las Vegas (Nevada),Divorced,Lesha Fitzpatrick,1975-11-11
-287-60-1483,(03)-1199-1764,Winston–Salem (North Carolina),Divorced,Clotilde Rivers,1986-02-19
+287-60-1483,(03)-1199-1764,Winstonâ€“Salem (North Carolina),Divorced,Clotilde Rivers,1986-02-19
 408-85-1778,(04)-4858-8640,Toledo (Ohio),Common-Law,Brandi Zamora,1981-08-03
 429-18-1535,(05)-5330-9523,Virginia Beach (Virginia),Single,Filiberto Nava,1971-01-24
 391-18-1727,(07)-9854-7527,Durham (North Carolina),Divorced,Iris Steger,1969-06-26
@@ -14145,7 +14145,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 339-81-1664,(09)-3858-1791,Phoenix (Arizona),Common-Law,Milo Penny,1985-09-01
 339-46-1854,(09)-6191-4289,Sacramento (California),Single,Tommy Rutherford,1988-09-11
 301-54-1772,(08)-3339-5713,New Orleans (Louisiana),Married,Dillon Tinoco,1987-02-14
-224-99-1893,(05)-6473-3997,Winston–Salem (North Carolina),Married,Kelli Keeton,1990-10-15
+224-99-1893,(05)-6473-3997,Winstonâ€“Salem (North Carolina),Married,Kelli Keeton,1990-10-15
 381-44-1393,(09)-9999-6480,Santa Ana (California),Married,Elissa Anspach,1971-02-05
 116-81-1158,(05)-5050-8432,San Diego (California),Married,Valeria Barrows,1989-04-02
 279-34-1676,(08)-7905-4870,Toledo (Ohio),Married,Deeann Acevedo,1981-09-20
@@ -14383,7 +14383,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 177-83-1491,(08)-1199-1791,Chula Vista (California),Common-Law,Irvin Hansard,1973-09-19
 425-54-1376,(03)-9333-6766,Tampa (Florida),Married,Reatha Fessler,1988-01-17
 320-74-1491,(05)-3949-2611,Seattle (Washington),Single,Elizebeth Mcdill,1978-12-02
-320-99-1732,(05)-9365-4394,Winston–Salem (North Carolina),Single,Sheldon Mcclellan,1974-01-05
+320-99-1732,(05)-9365-4394,Winstonâ€“Salem (North Carolina),Single,Sheldon Mcclellan,1974-01-05
 320-93-1849,(08)-7703-6898,Riverside (California),Single,Paul Sparacino,1988-07-28
 301-81-1692,(08)-6191-8942,St. Petersburg (Florida),Divorced,Goldie Mccallum,1980-05-04
 144-82-1022,(03)-2298-2315,Irving (Texas),Divorced,Florence Zellmer,1973-08-05
@@ -14429,7 +14429,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 177-60-1856,(09)-6745-2315,Raleigh (North Carolina),Single,Myron Hunt,1971-04-10
 425-25-1235,(04)-5580-4176,Charlotte (North Carolina),Divorced,Cary Braxton,1979-02-08
 391-32-1339,(09)-6473-5867,Gilbert (Arizona),Common-Law,Jules Chau,1984-11-22
-224-83-1801,(04)-9365-3325,Winston–Salem (North Carolina),Divorced,Claude Boaz,1969-03-12
+224-83-1801,(04)-9365-3325,Winstonâ€“Salem (North Carolina),Divorced,Claude Boaz,1969-03-12
 339-60-1492,(03)-4286-1114,Jacksonville (Florida),Common-Law,Tam Greeson,1980-04-26
 408-32-1723,(09)-9365-8507,Orlando (Florida),Single,Deidre Rodgers,1973-10-10
 177-51-1043,(03)-9333-5686,Pittsburgh (Pennsylvania),Single,Bernadette Martin,1972-08-20
@@ -14484,7 +14484,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 381-30-1489,(04)-9292-9511,St. Petersburg (Florida),Married,Alma Lambert,1988-07-03
 429-82-2000,(08)-5794-4508,Raleigh (North Carolina),Divorced,Rosalyn Li,1972-01-18
 116-54-1995,(04)-5125-6500,Omaha (Nebraska),Common-Law,May Quick,1976-02-15
-408-99-1262,(07)-9333-5388,Winston–Salem (North Carolina),Divorced,Duane Gagliardi,1986-12-09
+408-99-1262,(07)-9333-5388,Winstonâ€“Salem (North Carolina),Divorced,Duane Gagliardi,1986-12-09
 238-93-1891,(05)-3468-4606,Columbus (Ohio),Divorced,Sylvester Renwick,1990-08-18
 320-85-1851,(07)-5854-7659,Memphis (Tennessee),Divorced,Larry Guay,1973-11-13
 429-31-1286,(09)-7508-9114,Reno (Nevada),Single,Ezequiel Ralph,1986-01-10
@@ -14509,7 +14509,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 177-85-1307,(08)-7504-4983,Atlanta (Georgia),Divorced,Dorathy Showers,1987-02-05
 339-23-1463,(05)-4858-7527,Norfolk (Virginia),Married,Marc Camacho,1976-03-29
 287-18-1958,(07)-5125-1179,Richmond (Virginia),Common-Law,Derrick Nagao,1976-02-17
-138-31-1341,(07)-9854-5019,Winston–Salem (North Carolina),Common-Law,Gudrun Cheng,1975-07-26
+138-31-1341,(07)-9854-5019,Winstonâ€“Salem (North Carolina),Common-Law,Gudrun Cheng,1975-07-26
 138-23-1603,(08)-5050-3038,Los Angeles (California),Common-Law,Melvin Wetzel,1983-07-10
 391-32-1237,(08)-9235-6781,San Antonio (Texas),Common-Law,Sara Lohr,1980-07-31
 381-74-1199,(09)-7504-1179,Kansas City (Missouri),Single,Kathy Halstead,1978-06-29
@@ -14627,7 +14627,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 138-31-1227,(07)-6745-2465,Fremont (California),Single,Mervin Bradshaw,1978-12-24
 216-51-1263,(04)-8435-9511,San Diego (California),Single,Juanita Mcdaniel,1969-04-16
 138-34-1383,(08)-7508-9187,Garland (Texas),Common-Law,Tim Ramey,1971-01-17
-216-51-1883,(03)-6486-7286,Winston–Salem (North Carolina),Divorced,Emilia Weddle,1970-10-29
+216-51-1883,(03)-6486-7286,Winstonâ€“Salem (North Carolina),Divorced,Emilia Weddle,1970-10-29
 238-25-1893,(07)-5580-3997,Baltimore (Maryland),Single,Rick Vinson,1987-05-11
 116-51-1240,(04)-5592-1247,Anchorage (Alaska),Common-Law,Everette Archer,1981-11-10
 166-54-1054,(08)-9999-2714,Miami (Florida),Divorced,Alyson Weems,1969-01-03
@@ -14666,11 +14666,11 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 116-18-1883,(08)-7508-9470,Washington (District of Columbia),Single,Inell Sainz,1973-03-06
 279-32-1331,(08)-6975-1423,Richmond (Virginia),Married,Jeremy Lanphear,1990-10-20
 166-25-1954,(04)-1199-5713,Oklahoma City (Oklahoma),Common-Law,Clarence Fitzhugh,1978-12-26
-320-32-1021,(03)-5002-9114,Winston–Salem (North Carolina),Common-Law,Desiree David,1989-08-05
+320-32-1021,(03)-5002-9114,Winstonâ€“Salem (North Carolina),Common-Law,Desiree David,1989-08-05
 238-31-1448,(05)-4370-1433,Orlando (Florida),Single,Clemmie Desmond,1982-06-29
 216-83-1688,(05)-9365-2465,Oakland (California),Married,Christi Houle,1983-03-05
 320-60-1507,(05)-4286-4339,San Francisco (California),Divorced,Lilia Beam,1987-08-06
-425-54-1048,(03)-3339-2315,Winston–Salem (North Carolina),Common-Law,Caitlin Victor,1969-08-16
+425-54-1048,(03)-3339-2315,Winstonâ€“Salem (North Carolina),Common-Law,Caitlin Victor,1969-08-16
 339-51-1263,(05)-3858-8432,Laredo (Texas),Common-Law,Waltraud Mulholland,1969-05-15
 144-93-1156,(09)-5002-6480,Laredo (Texas),Common-Law,Billy Vitale,1974-07-22
 177-74-1000,(08)-3949-8942,Lexington (Kentucky),Common-Law,Verona Linker,1974-06-21
@@ -14809,7 +14809,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 381-74-1423,(05)-9854-9114,Miami (Florida),Single,Clotilde Jenson,1988-11-22
 166-85-1514,(05)-5146-7208,Fort Worth (Texas),Single,Juan Nalls,1989-07-19
 224-18-1492,(09)-6473-9130,Tucson (Arizona),Divorced,Catharine Navarrete,1976-03-03
-320-60-1666,(08)-5125-8548,Winston–Salem (North Carolina),Married,Dirk Gilliland,1980-05-29
+320-60-1666,(08)-5125-8548,Winstonâ€“Salem (North Carolina),Married,Dirk Gilliland,1980-05-29
 116-30-1383,(08)-1199-7434,Reno (Nevada),Divorced,Murray Lawton,1986-08-03
 116-74-1057,(07)-9719-8193,Fremont (California),Divorced,Claude Birchfield,1988-11-02
 425-32-1603,(04)-4370-4983,Riverside (California),Divorced,Karen Burt,1978-09-05
@@ -14845,7 +14845,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 287-51-1392,(04)-5794-6535,Newark (New Jersey),Divorced,Terrie Leclerc,1973-11-23
 320-30-1137,(09)-6865-4508,Fremont (California),Divorced,Lea Crouse,1982-02-13
 301-18-1012,(09)-3858-8507,Boise (Idaho),Married,Ruben Burrows,1989-06-15
-368-74-1378,(07)-8435-5965,Winston–Salem (North Carolina),Common-Law,Royce Hatcher,1976-10-08
+368-74-1378,(07)-8435-5965,Winstonâ€“Salem (North Carolina),Common-Law,Royce Hatcher,1976-10-08
 368-51-1828,(03)-5125-6781,Stockton (California),Married,Jermaine Efird,1982-09-29
 323-31-1995,(04)-5050-3038,Mesa (Arizona),Married,Henrietta Alfonso,1974-04-15
 301-85-1383,(03)-3949-4206,Anaheim (California),Common-Law,Brad Valtierra,1988-07-09
@@ -14858,7 +14858,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 138-99-1882,(07)-5179-3278,Madison (Wisconsin),Divorced,Nickolas Epperson,1969-06-29
 287-54-1262,(09)-5179-5019,Atlanta (Georgia),Married,Marcellus Boyett,1990-07-25
 279-99-1158,(07)-5146-8568,Minneapolis (Minnesota),Married,Cory Dees,1981-09-03
-177-34-1469,(04)-6865-1114,Winston–Salem (North Carolina),Common-Law,Ken Eldridge,1983-04-22
+177-34-1469,(04)-6865-1114,Winstonâ€“Salem (North Carolina),Common-Law,Ken Eldridge,1983-04-22
 279-60-1345,(09)-3433-5686,Miami (Florida),Married,Dedra Kettle,1990-07-27
 238-74-1338,(09)-1199-3038,Toledo (Ohio),Single,Geoffrey Erlandson,1988-08-11
 138-82-1286,(03)-6191-6898,Newark (New Jersey),Divorced,Ethan Lindley,1987-05-25
@@ -14930,7 +14930,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 368-85-1501,(09)-5002-6502,Nashville (Tennessee),Divorced,Leslie Buchholz,1985-09-19
 224-51-1809,(04)-9854-1764,Lincoln (Nebraska),Single,Dirk Townsend,1985-04-18
 166-82-1992,(04)-7905-6362,Cincinnati (Ohio),Single,Sunny Sumner,1977-05-15
-381-44-1000,(09)-5125-4289,Winston–Salem (North Carolina),Single,Hannah Dewitt,1985-09-30
+381-44-1000,(09)-5125-4289,Winstonâ€“Salem (North Carolina),Single,Hannah Dewitt,1985-09-30
 391-44-1283,(03)-3468-7286,San Diego (California),Divorced,Dirk Ang,1979-11-17
 138-60-1979,(09)-6473-6629,Cincinnati (Ohio),Single,Meg Bradford,1990-10-30
 166-44-1811,(05)-5050-7402,Milwaukee (Wisconsin),Common-Law,Raquel Buchholz,1990-02-12
@@ -14939,7 +14939,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 381-31-1020,(08)-3949-1791,San Antonio (Texas),Common-Law,Nina Falls,1986-02-12
 166-46-2000,(08)-7703-7527,Stockton (California),Common-Law,Irving Rueb,1978-09-10
 323-51-1733,(08)-4858-5801,Cincinnati (Ohio),Single,Robert Bottoms,1972-05-15
-429-18-1262,(07)-8435-7191,Winston–Salem (North Carolina),Divorced,Isabelle Joiner,1973-02-24
+429-18-1262,(07)-8435-7191,Winstonâ€“Salem (North Carolina),Divorced,Isabelle Joiner,1973-02-24
 166-18-1828,(04)-3949-4176,Las Vegas (Nevada),Common-Law,Theresa Atchison,1987-01-30
 391-34-1858,(09)-7508-8568,Jacksonville (Florida),Married,Jaime Allison,1978-06-21
 144-44-1019,(05)-8288-1433,Anaheim (California),Single,Tuan Senters,1988-02-05
@@ -14971,7 +14971,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 429-93-1237,(08)-8435-7659,North Las Vegas (Nevada),Married,Ada Carleton,1985-09-25
 381-34-1563,(09)-5902-8432,Phoenix (Arizona),Common-Law,Juan Telford,1974-06-05
 238-34-1022,(08)-5502-2735,Glendale (Arizona),Divorced,Francisco Rochelle,1975-06-14
-381-93-1559,(04)-2926-1452,Winston–Salem (North Carolina),Common-Law,Dallas Escobar,1988-11-29
+381-93-1559,(04)-2926-1452,Winstonâ€“Salem (North Carolina),Common-Law,Dallas Escobar,1988-11-29
 279-55-1768,(07)-7973-7370,Saint Paul (Minnesota),Common-Law,Alejandro Hinojosa,1973-07-27
 368-60-1288,(03)-5580-7191,Los Angeles (California),Married,Wayne Shealey,1987-12-16
 425-60-1822,(09)-7508-6629,Long Beach (California),Married,Ezekiel Bailey,1984-11-29
@@ -14982,7 +14982,7 @@ ssn,phone,city,maritalstatus,fullname,birthdate
 381-60-1171,(09)-5592-7402,Minneapolis (Minnesota),Married,Wm Dover,1984-08-15
 166-51-1263,(04)-6975-5241,Buffalo (New York),Divorced,Annie Combs,1972-01-15
 144-54-1602,(08)-2298-7659,Raleigh (North Carolina),Single,Kathleen Garrick,1978-06-09
-323-81-1067,(04)-3460-9187,Winston–Salem (North Carolina),Common-Law,Garry Dietz,1986-08-12
+323-81-1067,(04)-3460-9187,Winstonâ€“Salem (North Carolina),Common-Law,Garry Dietz,1986-08-12
 116-18-1054,(04)-5002-4345,Chicago (Illinois),Married,Rolland Featherstone,1983-10-13
 177-30-1545,(05)-9292-3345,Fort Wayne (Indiana),Married,Kristopher Nisbett,1973-06-14
 339-74-1507,(08)-6486-6766,Norfolk (Virginia),Divorced,Harold Meinhardt,1984-01-10
