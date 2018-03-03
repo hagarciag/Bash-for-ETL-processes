@@ -4,14 +4,14 @@ Para realizar tanto el quiz de entrenamiento como el quiz de evaluación, se debe
 
 1. Descargar los archivos banco.csv, franquicia.csv y persona.csv.
 2. Descargar el archivo data.sql 
-3. Dentro del archivo data.sql reemplazar los elementos de la función LOAD DATA IN FILE por la ruta de los archivos banco.csv,franquicia.csv y persona.csv en su equipo
+3. Dentro del archivo data.sql reemplazar los elementos de la función LOAD DATA INFILE por la ruta de los archivos banco.csv,franquicia.csv y persona.csv en su equipo
    respectivamente para cada tabla. El script debe editarse para cada LOAD DATA INFILE como se muestra a continuación: 
 
-   LOAD DATA LOCAL INFILE 'C:/Users/Area/Desktop/pruebasql/emisor.csv' INTO TABLE emisor FIELDS TERMINATED BY ',' IGNORE 1 LINES (bank,ccn,ssn); (ejemplo para Windows)
+   LOAD DATA LOCAL INFILE 'C:/Users/VALENTINA/Desktop/pruebasql/persona.csv' INTO TABLE persona FIELDS TERMINATED BY ',' LINES TERMINATED by '\r\n' IGNORE 1 LINES (ssn,phone,city,maritalstatus,fullname,birthdate); (ejemplo para Windows)
 
 4. Desde el promt de MariaDB, ejecutar la siguiente linea:
 
 	SOURCE 'ruta de acceso al archivo data.txt'
-	SOURCE C:\Users\Area\Desktop\script.sql (ejemplo para Windows)
+	SOURCE C:\Users\VALENTINA\Desktop\data.sql (ejemplo para Windows)
 
 5. Verifique que se haya creado la base de datos 'quiz' y que contenga las tablas banco, franquicia y person.
